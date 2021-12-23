@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fangyi Zhang (张方毅)</title>
+    <link>http://www.fangyizhang.com/project/</link>
+    <description>Recent content in Projects on Fangyi Zhang (张方毅)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Fangyi Zhang</copyright>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.fangyizhang.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Real-world Visuo-motor Policies from Simulation</title>
+      <link>http://www.fangyizhang.com/project/sim2real_learning/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.fangyizhang.com/project/sim2real_learning/</guid>
+      <description>This is my Ph.D. project in the Australian Centre for Robotic Vision at QUT, with supervisions from Prof. Peter Corke, Dr. Jürgen Leitner, Prof. Michael Milford and Dr. Ben Upcroft.
+Learning Planar Reaching in Simulation   Robotic Planar Reaching in the Real World   Learning Table-top Object Reaching with a 7 DoF Robotic Arm from Simulation   Contributions:
+ Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation.</description>
+    </item>
+    
+    <item>
+      <title>Robotic Manipulation for Warehouse and Household Applications</title>
+      <link>http://www.fangyizhang.com/project/robotic_manipulation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.fangyizhang.com/project/robotic_manipulation/</guid>
+      <description>Amazon Picking Challenge (2016)   As part of the Team ACRV for the Amazon Picking Challenge 2016, I worked on hand-eye calibration with Dr. Leo Wu.     Household Applications   This is a project I worked on during my visit to the Perception and Robotics Group at the University of Maryland, College Park, Sep-Dec 2016. A mobile manipulation robot was developed for housework in a kitchen scenario, where I mainly took charge of the sub-task of table cleaning.</description>
+    </item>
+    
+    <item>
+      <title>VLC-Based Indoor Localization</title>
+      <link>http://www.fangyizhang.com/project/vlc/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.fangyizhang.com/project/vlc/</guid>
+      <description>This is a project I worked on with Prof. Ming Liu and Mr. Kejie Qiu when I was a research assistant in the RAM-LAB at HKUST.
+  Contributions:
+ Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties. Participated in the development of a light intensity distribution map generation algorithm using Gaussian Process Regression.</description>
+    </item>
+    
+  </channel>
+</rss>

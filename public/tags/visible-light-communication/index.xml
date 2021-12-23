@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visible light communication on Fangyi Zhang (张方毅)</title>
+    <link>http://www.fangyizhang.com/tags/visible-light-communication/</link>
+    <description>Recent content in visible light communication on Fangyi Zhang (张方毅)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Fangyi Zhang</copyright>
+    <lastBuildDate>Wed, 31 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://www.fangyizhang.com/tags/visible-light-communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VLC-Based Indoor Localization</title>
+      <link>http://www.fangyizhang.com/project/vlc/</link>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.fangyizhang.com/project/vlc/</guid>
+      <description>This is a project I worked on with Prof. Ming Liu and Mr. Kejie Qiu when I was a research assistant in the RAM-LAB at HKUST.
+  Contributions:
+ Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties. Participated in the development of a light intensity distribution map generation algorithm using Gaussian Process Regression.</description>
+    </item>
+    
+  </channel>
+</rss>

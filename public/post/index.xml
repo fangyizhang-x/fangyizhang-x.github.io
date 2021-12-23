@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fangyi Zhang (张方毅)</title>
+    <link>http://www.fangyizhang.com/post/</link>
+    <description>Recent content in Posts on Fangyi Zhang (张方毅)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Fangyi Zhang</copyright>
+    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.fangyizhang.com/post/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
