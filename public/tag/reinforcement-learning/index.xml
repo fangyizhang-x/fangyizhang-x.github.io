@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement learning | Fangyi Zhang (张方毅)</title>
+    <link>https://new.fangyizhang.com/tag/reinforcement-learning/</link>
+      <atom:link href="https://new.fangyizhang.com/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>reinforcement learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>reinforcement learning</title>
+      <link>https://new.fangyizhang.com/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Learning Real-world Visuo-motor Policies from Simulation</title>
+      <link>https://new.fangyizhang.com/project/sim2real_learning/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://new.fangyizhang.com/project/sim2real_learning/</guid>
+      <description>&lt;p&gt;This is my Ph.D. project in the &lt;a href=&#34;https://www.roboticvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australian Centre for Robotic Vision&lt;/a&gt; at &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Robotics@QUT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QUT&lt;/a&gt;, with supervisions from &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Peter&amp;#43;Corke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter Corke&lt;/a&gt;, &lt;a href=&#34;http://juxi.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jürgen Leitner&lt;/a&gt;, &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Michael&amp;#43;Milford&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Michael Milford&lt;/a&gt; and &lt;a href=&#34;https://www.roboticvision.org/rv_person/ben-upcroft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Upcroft&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;learning-planar-reaching-in-simulation&#34;&gt;&lt;strong&gt;Learning Planar Reaching in Simulation&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6cz-mcM4Qkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;robotic-planar-reaching-in-the-real-world&#34;&gt;&lt;strong&gt;Robotic Planar Reaching in the Real World&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;learning-table-top-object-reaching-with-a-7-dof-robotic-arm-from-simulation&#34;&gt;&lt;strong&gt;Learning Table-top Object Reaching with a 7 DoF Robotic Arm from Simulation&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation.&lt;/li&gt;
+&lt;li&gt;Proposed a modular deep Q network architecture for fast and low-cost transfer of visuo-motor policies from simulation to the real world.&lt;/li&gt;
+&lt;li&gt;Proposed an end-to-end fine-tuning method using weighted losses to improve hand-eye coordination.&lt;/li&gt;
+&lt;li&gt;Proposed a kinematics-based guided policy search method (K-GPS) to speed up Q learning for robotic applications where kinematic models are known.&lt;/li&gt;
+&lt;li&gt;Demonstrated in robotic reaching tasks on a real Baxter robot in velocity and position control modes, e.g., table-top object reaching in clutter and planar reaching.&lt;/li&gt;
+&lt;li&gt;More investigations are undergoing for semi-supervised and unsupervised transfer from simulation to the real world using adversarial discriminative approaches.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

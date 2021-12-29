@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Fangyi Zhang (张方毅)</title>
+    <link>https://new.fangyizhang.com/tag/deep-learning/</link>
+      <atom:link href="https://new.fangyizhang.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://new.fangyizhang.com/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Learning Real-world Visuo-motor Policies from Simulation</title>
+      <link>https://new.fangyizhang.com/project/sim2real_learning/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://new.fangyizhang.com/project/sim2real_learning/</guid>
+      <description>&lt;p&gt;This is my Ph.D. project in the &lt;a href=&#34;https://www.roboticvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australian Centre for Robotic Vision&lt;/a&gt; at &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Robotics@QUT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QUT&lt;/a&gt;, with supervisions from &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Peter&amp;#43;Corke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter Corke&lt;/a&gt;, &lt;a href=&#34;http://juxi.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jürgen Leitner&lt;/a&gt;, &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Michael&amp;#43;Milford&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Michael Milford&lt;/a&gt; and &lt;a href=&#34;https://www.roboticvision.org/rv_person/ben-upcroft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Upcroft&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;learning-planar-reaching-in-simulation&#34;&gt;&lt;strong&gt;Learning Planar Reaching in Simulation&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6cz-mcM4Qkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;robotic-planar-reaching-in-the-real-world&#34;&gt;&lt;strong&gt;Robotic Planar Reaching in the Real World&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;learning-table-top-object-reaching-with-a-7-dof-robotic-arm-from-simulation&#34;&gt;&lt;strong&gt;Learning Table-top Object Reaching with a 7 DoF Robotic Arm from Simulation&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation.&lt;/li&gt;
+&lt;li&gt;Proposed a modular deep Q network architecture for fast and low-cost transfer of visuo-motor policies from simulation to the real world.&lt;/li&gt;
+&lt;li&gt;Proposed an end-to-end fine-tuning method using weighted losses to improve hand-eye coordination.&lt;/li&gt;
+&lt;li&gt;Proposed a kinematics-based guided policy search method (K-GPS) to speed up Q learning for robotic applications where kinematic models are known.&lt;/li&gt;
+&lt;li&gt;Demonstrated in robotic reaching tasks on a real Baxter robot in velocity and position control modes, e.g., table-top object reaching in clutter and planar reaching.&lt;/li&gt;
+&lt;li&gt;More investigations are undergoing for semi-supervised and unsupervised transfer from simulation to the real world using adversarial discriminative approaches.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robotic Manipulation for Warehouse and Household Applications</title>
+      <link>https://new.fangyizhang.com/project/robotic_manipulation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://new.fangyizhang.com/project/robotic_manipulation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;amazon-picking-challenge-2016&#34;&gt;&lt;strong&gt;Amazon Picking Challenge (2016)&lt;/strong&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of the &lt;a href=&#34;https://research.qut.edu.au/ras/research/amazon-picking-challenge-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Team ACRV&lt;/a&gt; for the &lt;a href=&#34;http://pwurman.org/amazonpickingchallenge/results.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon Picking Challenge 2016&lt;/a&gt;, I worked on hand-eye calibration with &lt;a href=&#34;https://sites.google.com/site/wuliaothu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leo Wu&lt;/a&gt;.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kiPumsk9TBk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;household-applications&#34;&gt;&lt;strong&gt;Household Applications&lt;/strong&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a project I worked on during my visit to the &lt;a href=&#34;http://prg.cs.umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perception and Robotics Group&lt;/a&gt; at the &lt;a href=&#34;https://umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Maryland&lt;/a&gt;, College Park, Sep-Dec 2016. A mobile manipulation robot was developed for housework in a kitchen scenario, where I mainly took charge of the sub-task of table cleaning. Thanks to &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~yiannis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yiannis Aloimonos&lt;/a&gt;, &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~fer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Cornelia Fermüller&lt;/a&gt;, &lt;a href=&#34;https://users.cecs.anu.edu.au/~yili/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Yi Li&lt;/a&gt;, &lt;a href=&#34;https://yezhouyang.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Yezhou Yang&lt;/a&gt; and my colleagues: &lt;a href=&#34;http://users.cecs.anu.edu.au/~fwang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Fang Wang&lt;/a&gt;, Dr. Ren Mao, &lt;a href=&#34;https://scholar.google.com/citations?user=eDDJ48UAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Aleksandrs Ecins&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=PJQ8XgwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Wentao Luan&lt;/a&gt;, &lt;a href=&#34;https://www.cs.umd.edu/~kzampog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Konstantinos Zampogiannis&lt;/a&gt;, Mr. Yi Zhang, &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~kganguly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Kanishka Ganguly&lt;/a&gt;, &lt;a href=&#34;https://analogicalnexus.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Chethan M Parameshwara&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;table-cleaning&#34;&gt;&lt;strong&gt;Table Cleaning&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QyQWNof-8v4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;refrigerator-operating&#34;&gt;&lt;strong&gt;Refrigerator Operating&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1rK_O8T_ck4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;microwave-operating&#34;&gt;&lt;strong&gt;Microwave Operating&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WUcqNiUzKvI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://new.fangyizhang.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://new.fangyizhang.com/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

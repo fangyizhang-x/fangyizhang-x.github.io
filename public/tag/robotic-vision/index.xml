@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotic vision | Fangyi Zhang (张方毅)</title>
+    <link>https://new.fangyizhang.com/tag/robotic-vision/</link>
+      <atom:link href="https://new.fangyizhang.com/tag/robotic-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>robotic vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>robotic vision</title>
+      <link>https://new.fangyizhang.com/tag/robotic-vision/</link>
+    </image>
+    
+    <item>
+      <title>Robotic Manipulation for Warehouse and Household Applications</title>
+      <link>https://new.fangyizhang.com/project/robotic_manipulation/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://new.fangyizhang.com/project/robotic_manipulation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;amazon-picking-challenge-2016&#34;&gt;&lt;strong&gt;Amazon Picking Challenge (2016)&lt;/strong&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of the &lt;a href=&#34;https://research.qut.edu.au/ras/research/amazon-picking-challenge-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Team ACRV&lt;/a&gt; for the &lt;a href=&#34;http://pwurman.org/amazonpickingchallenge/results.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amazon Picking Challenge 2016&lt;/a&gt;, I worked on hand-eye calibration with &lt;a href=&#34;https://sites.google.com/site/wuliaothu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Leo Wu&lt;/a&gt;.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kiPumsk9TBk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;household-applications&#34;&gt;&lt;strong&gt;Household Applications&lt;/strong&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a project I worked on during my visit to the &lt;a href=&#34;http://prg.cs.umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perception and Robotics Group&lt;/a&gt; at the &lt;a href=&#34;https://umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Maryland&lt;/a&gt;, College Park, Sep-Dec 2016. A mobile manipulation robot was developed for housework in a kitchen scenario, where I mainly took charge of the sub-task of table cleaning. Thanks to &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~yiannis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Yiannis Aloimonos&lt;/a&gt;, &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~fer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Cornelia Fermüller&lt;/a&gt;, &lt;a href=&#34;https://users.cecs.anu.edu.au/~yili/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Yi Li&lt;/a&gt;, &lt;a href=&#34;https://yezhouyang.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Yezhou Yang&lt;/a&gt; and my colleagues: &lt;a href=&#34;http://users.cecs.anu.edu.au/~fwang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Fang Wang&lt;/a&gt;, Dr. Ren Mao, &lt;a href=&#34;https://scholar.google.com/citations?user=eDDJ48UAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Aleksandrs Ecins&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=PJQ8XgwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Wentao Luan&lt;/a&gt;, &lt;a href=&#34;https://www.cs.umd.edu/~kzampog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Konstantinos Zampogiannis&lt;/a&gt;, Mr. Yi Zhang, &lt;a href=&#34;http://legacydirs.umiacs.umd.edu/~kganguly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Kanishka Ganguly&lt;/a&gt;, &lt;a href=&#34;https://analogicalnexus.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Chethan M Parameshwara&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;table-cleaning&#34;&gt;&lt;strong&gt;Table Cleaning&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/QyQWNof-8v4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;refrigerator-operating&#34;&gt;&lt;strong&gt;Refrigerator Operating&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1rK_O8T_ck4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;microwave-operating&#34;&gt;&lt;strong&gt;Microwave Operating&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WUcqNiUzKvI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

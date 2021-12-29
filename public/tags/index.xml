@@ -1,129 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Fangyi Zhang (张方毅)</title>
-    <link>http://www.fangyizhang.com/tags/</link>
-    <description>Recent content in Tags on Fangyi Zhang (张方毅)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2021 Fangyi Zhang</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.fangyizhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>deep learning</title>
-      <link>http://www.fangyizhang.com/tags/deep-learning/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>http://www.fangyizhang.com/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotic reaching</title>
-      <link>http://www.fangyizhang.com/tags/robotic-reaching/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/robotic-reaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sim-to-real transfer</title>
-      <link>http://www.fangyizhang.com/tags/sim-to-real-transfer/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/sim-to-real-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transfer learning</title>
-      <link>http://www.fangyizhang.com/tags/transfer-learning/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/transfer-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>visuo-motor policy</title>
-      <link>http://www.fangyizhang.com/tags/visuo-motor-policy/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/visuo-motor-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion planning</title>
-      <link>http://www.fangyizhang.com/tags/motion-planning/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/motion-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotic manipulation</title>
-      <link>http://www.fangyizhang.com/tags/robotic-manipulation/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/robotic-manipulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotic picking and placing</title>
-      <link>http://www.fangyizhang.com/tags/robotic-picking-and-placing/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/robotic-picking-and-placing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotic vision</title>
-      <link>http://www.fangyizhang.com/tags/robotic-vision/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/robotic-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>indoor localization</title>
-      <link>http://www.fangyizhang.com/tags/indoor-localization/</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/indoor-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>path planning</title>
-      <link>http://www.fangyizhang.com/tags/path-planning/</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/path-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>visible light communication</title>
-      <link>http://www.fangyizhang.com/tags/visible-light-communication/</link>
-      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.fangyizhang.com/tags/visible-light-communication/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Fangyi Zhang (张方毅)</title>
+    <link>https://new.fangyizhang.com/tags/</link>
+      <atom:link href="https://new.fangyizhang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://new.fangyizhang.com/tags/</link>
+    </image>
     
   </channel>
 </rss>
