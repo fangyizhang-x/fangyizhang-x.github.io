@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/publication-type/2/</link>
-      <atom:link href="https://new.fangyizhang.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/publication-type/2/</link>
+      <atom:link href="https://www.fangyizhang.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://new.fangyizhang.com/publication-type/2/</link>
+      <link>https://www.fangyizhang.com/publication-type/2/</link>
     </image>
     
     <item>
       <title>Adversarial Discriminative Sim-to-real Transfer of Visuo-motor Policies</title>
-      <link>https://new.fangyizhang.com/publication/adt_ijrr/</link>
+      <link>https://www.fangyizhang.com/publication/adt_ijrr/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/adt_ijrr/</guid>
+      <guid>https://www.fangyizhang.com/publication/adt_ijrr/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Let the Light Guide Us: VLC-based Localization</title>
-      <link>https://new.fangyizhang.com/publication/ram2016/</link>
+      <link>https://www.fangyizhang.com/publication/ram2016/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/ram2016/</guid>
+      <guid>https://www.fangyizhang.com/publication/ram2016/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

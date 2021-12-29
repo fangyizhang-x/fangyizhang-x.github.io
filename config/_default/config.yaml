@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fangyi Zhang (张方毅) # Website name
-baseurl: 'https://new.fangyizhang.com/' # Website URL
+baseurl: 'https://www.fangyizhang.com/' # Website URL
 copyright: '&copy; 2021 Fangyi Zhang' # Footer text, e.g. '© {year} Me'
 
 ############################

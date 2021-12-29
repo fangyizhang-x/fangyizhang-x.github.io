@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://new.fangyizhang.com/sitemap.xml
+Sitemap: https://www.fangyizhang.com/sitemap.xml

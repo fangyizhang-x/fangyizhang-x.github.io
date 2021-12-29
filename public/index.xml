@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/</link>
-      <atom:link href="https://new.fangyizhang.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/</link>
+      <atom:link href="https://www.fangyizhang.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Fangyi Zhang (张方毅)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Fangyi Zhang (张方毅)</title>
-      <link>https://new.fangyizhang.com/</link>
+      <link>https://www.fangyizhang.com/</link>
     </image>
     
     <item>
       <title>Skills</title>
-      <link>https://new.fangyizhang.com/home_not_used/skills/</link>
+      <link>https://www.fangyizhang.com/home_not_used/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/skills/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://new.fangyizhang.com/home_not_used/experience/</link>
+      <link>https://www.fangyizhang.com/home_not_used/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/experience/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://new.fangyizhang.com/home_not_used/accomplishments/</link>
+      <link>https://www.fangyizhang.com/home_not_used/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/accomplishments/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://new.fangyizhang.com/home_not_used/posts/</link>
+      <link>https://www.fangyizhang.com/home_not_used/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/posts/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://new.fangyizhang.com/home_not_used/talks/</link>
+      <link>https://www.fangyizhang.com/home_not_used/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/talks/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://new.fangyizhang.com/home_not_used/featured/</link>
+      <link>https://www.fangyizhang.com/home_not_used/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/featured/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://new.fangyizhang.com/home_not_used/tags/</link>
+      <link>https://www.fangyizhang.com/home_not_used/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/home_not_used/tags/</guid>
+      <guid>https://www.fangyizhang.com/home_not_used/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://new.fangyizhang.com/talk/example-talk/</link>
+      <link>https://www.fangyizhang.com/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/talk/example-talk/</guid>
+      <guid>https://www.fangyizhang.com/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -90,9 +90,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://new.fangyizhang.com/post/getting-started/</link>
+      <link>https://www.fangyizhang.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/post/getting-started/</guid>
+      <guid>https://www.fangyizhang.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -167,9 +167,9 @@
     
     <item>
       <title>Adversarial Discriminative Sim-to-real Transfer of Visuo-motor Policies</title>
-      <link>https://new.fangyizhang.com/publication/adt_ijrr/</link>
+      <link>https://www.fangyizhang.com/publication/adt_ijrr/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/adt_ijrr/</guid>
+      <guid>https://www.fangyizhang.com/publication/adt_ijrr/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -181,9 +181,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://new.fangyizhang.com/slides/example/</link>
+      <link>https://www.fangyizhang.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/slides/example/</guid>
+      <guid>https://www.fangyizhang.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -310,9 +310,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Learning Real-world Visuo-motor Policies from Simulation</title>
-      <link>https://new.fangyizhang.com/project/sim2real_learning/</link>
+      <link>https://www.fangyizhang.com/project/sim2real_learning/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/sim2real_learning/</guid>
+      <guid>https://www.fangyizhang.com/project/sim2real_learning/</guid>
       <description>&lt;p&gt;This is my Ph.D. project in the &lt;a href=&#34;https://www.roboticvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australian Centre for Robotic Vision&lt;/a&gt; at &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Robotics@QUT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QUT&lt;/a&gt;, with supervisions from &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Peter&amp;#43;Corke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter Corke&lt;/a&gt;, &lt;a href=&#34;http://juxi.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jürgen Leitner&lt;/a&gt;, &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Michael&amp;#43;Milford&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Michael Milford&lt;/a&gt; and &lt;a href=&#34;https://www.roboticvision.org/rv_person/ben-upcroft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Upcroft&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;learning-planar-reaching-in-simulation&#34;&gt;&lt;strong&gt;Learning Planar Reaching in Simulation&lt;/strong&gt;&lt;/h3&gt;
 
@@ -346,9 +346,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Modular Deep Q Networks for Sim-to-real Transfer of Visuo-motor Policies</title>
-      <link>https://new.fangyizhang.com/publication/acra2017/</link>
+      <link>https://www.fangyizhang.com/publication/acra2017/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/acra2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/acra2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -360,9 +360,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Tuning Modular Networks with Weighted Losses for Hand-Eye Coordination</title>
-      <link>https://new.fangyizhang.com/publication/cvpr2017/</link>
+      <link>https://www.fangyizhang.com/publication/cvpr2017/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/cvpr2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/cvpr2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -374,9 +374,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>The ACRV Picking Benchmark: A Robotic Shelf Picking Benchmark to Foster Reproducible Research</title>
-      <link>https://new.fangyizhang.com/publication/icra2017/</link>
+      <link>https://www.fangyizhang.com/publication/icra2017/</link>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/icra2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/icra2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/kiPumsk9TBk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -388,9 +388,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Robotic Manipulation for Warehouse and Household Applications</title>
-      <link>https://new.fangyizhang.com/project/robotic_manipulation/</link>
+      <link>https://www.fangyizhang.com/project/robotic_manipulation/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/robotic_manipulation/</guid>
+      <guid>https://www.fangyizhang.com/project/robotic_manipulation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;h3 id=&#34;amazon-picking-challenge-2016&#34;&gt;&lt;strong&gt;Amazon Picking Challenge (2016)&lt;/strong&gt;&lt;/h3&gt;
@@ -431,9 +431,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Let the Light Guide Us: VLC-based Localization</title>
-      <link>https://new.fangyizhang.com/publication/ram2016/</link>
+      <link>https://www.fangyizhang.com/publication/ram2016/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/ram2016/</guid>
+      <guid>https://www.fangyizhang.com/publication/ram2016/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -445,9 +445,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://new.fangyizhang.com/project/example/</link>
+      <link>https://www.fangyizhang.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/example/</guid>
+      <guid>https://www.fangyizhang.com/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -458,9 +458,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control</title>
-      <link>https://new.fangyizhang.com/publication/acra2015/</link>
+      <link>https://www.fangyizhang.com/publication/acra2015/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/acra2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/acra2015/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/6cz-mcM4Qkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -472,9 +472,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Visible Light Communication-based Indoor Localization using Gaussian Process</title>
-      <link>https://new.fangyizhang.com/publication/iros2015/</link>
+      <link>https://www.fangyizhang.com/publication/iros2015/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/iros2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/iros2015/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -486,9 +486,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Visible Light Communication-based Indoor Environment Modeling and Metric-free Path Planning</title>
-      <link>https://new.fangyizhang.com/publication/case2015/</link>
+      <link>https://www.fangyizhang.com/publication/case2015/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/case2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/case2015/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -500,9 +500,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Asynchronous Blind Signal Decomposition Using Tiny-Length Code for Visible Light Communication-Based Indoor Localization</title>
-      <link>https://new.fangyizhang.com/publication/icra2015/</link>
+      <link>https://www.fangyizhang.com/publication/icra2015/</link>
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/icra2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/icra2015/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/FGUM7P4xpGg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -514,9 +514,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>VLC-Based Indoor Localization</title>
-      <link>https://new.fangyizhang.com/project/vlc/</link>
+      <link>https://www.fangyizhang.com/project/vlc/</link>
       <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/vlc/</guid>
+      <guid>https://www.fangyizhang.com/project/vlc/</guid>
       <description>&lt;p&gt;This is a project I worked on with &lt;a href=&#34;http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ming Liu&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/kejieqiujack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Kejie Qiu&lt;/a&gt; when I was a research assistant in the &lt;a href=&#34;https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAM-LAB&lt;/a&gt; at &lt;a href=&#34;http://www.ust.hk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HKUST&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -534,9 +534,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://new.fangyizhang.com/publication/example/</link>
+      <link>https://www.fangyizhang.com/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/example/</guid>
+      <guid>https://www.fangyizhang.com/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -553,9 +553,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://new.fangyizhang.com/admin/config.yml</link>
+      <link>https://www.fangyizhang.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/admin/config.yml</guid>
+      <guid>https://www.fangyizhang.com/admin/config.yml</guid>
       <description></description>
     </item>
     

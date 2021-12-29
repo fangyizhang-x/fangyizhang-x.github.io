@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/publication/</link>
-      <atom:link href="https://new.fangyizhang.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/publication/</link>
+      <atom:link href="https://www.fangyizhang.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://new.fangyizhang.com/publication/</link>
+      <link>https://www.fangyizhang.com/publication/</link>
     </image>
     
     <item>
       <title>Adversarial Discriminative Sim-to-real Transfer of Visuo-motor Policies</title>
-      <link>https://new.fangyizhang.com/publication/adt_ijrr/</link>
+      <link>https://www.fangyizhang.com/publication/adt_ijrr/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/adt_ijrr/</guid>
+      <guid>https://www.fangyizhang.com/publication/adt_ijrr/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Modular Deep Q Networks for Sim-to-real Transfer of Visuo-motor Policies</title>
-      <link>https://new.fangyizhang.com/publication/acra2017/</link>
+      <link>https://www.fangyizhang.com/publication/acra2017/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/acra2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/acra2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>Tuning Modular Networks with Weighted Losses for Hand-Eye Coordination</title>
-      <link>https://new.fangyizhang.com/publication/cvpr2017/</link>
+      <link>https://www.fangyizhang.com/publication/cvpr2017/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/cvpr2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/cvpr2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/ybuFdsE6AjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>The ACRV Picking Benchmark: A Robotic Shelf Picking Benchmark to Foster Reproducible Research</title>
-      <link>https://new.fangyizhang.com/publication/icra2017/</link>
+      <link>https://www.fangyizhang.com/publication/icra2017/</link>
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/icra2017/</guid>
+      <guid>https://www.fangyizhang.com/publication/icra2017/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/kiPumsk9TBk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Let the Light Guide Us: VLC-based Localization</title>
-      <link>https://new.fangyizhang.com/publication/ram2016/</link>
+      <link>https://www.fangyizhang.com/publication/ram2016/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/ram2016/</guid>
+      <guid>https://www.fangyizhang.com/publication/ram2016/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control</title>
-      <link>https://new.fangyizhang.com/publication/acra2015/</link>
+      <link>https://www.fangyizhang.com/publication/acra2015/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/acra2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/acra2015/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/6cz-mcM4Qkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>Visible Light Communication-based Indoor Localization using Gaussian Process</title>
-      <link>https://new.fangyizhang.com/publication/iros2015/</link>
+      <link>https://www.fangyizhang.com/publication/iros2015/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/iros2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/iros2015/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Visible Light Communication-based Indoor Environment Modeling and Metric-free Path Planning</title>
-      <link>https://new.fangyizhang.com/publication/case2015/</link>
+      <link>https://www.fangyizhang.com/publication/case2015/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/case2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/case2015/</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/bVIw1DeuuYg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Asynchronous Blind Signal Decomposition Using Tiny-Length Code for Visible Light Communication-Based Indoor Localization</title>
-      <link>https://new.fangyizhang.com/publication/icra2015/</link>
+      <link>https://www.fangyizhang.com/publication/icra2015/</link>
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/icra2015/</guid>
+      <guid>https://www.fangyizhang.com/publication/icra2015/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/FGUM7P4xpGg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://new.fangyizhang.com/publication/example/</link>
+      <link>https://www.fangyizhang.com/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/publication/example/</guid>
+      <guid>https://www.fangyizhang.com/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

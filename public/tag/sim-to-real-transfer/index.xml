@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sim-to-real transfer | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/tag/sim-to-real-transfer/</link>
-      <atom:link href="https://new.fangyizhang.com/tag/sim-to-real-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/tag/sim-to-real-transfer/</link>
+      <atom:link href="https://www.fangyizhang.com/tag/sim-to-real-transfer/index.xml" rel="self" type="application/rss+xml" />
     <description>sim-to-real transfer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>sim-to-real transfer</title>
-      <link>https://new.fangyizhang.com/tag/sim-to-real-transfer/</link>
+      <link>https://www.fangyizhang.com/tag/sim-to-real-transfer/</link>
     </image>
     
     <item>
       <title>Learning Real-world Visuo-motor Policies from Simulation</title>
-      <link>https://new.fangyizhang.com/project/sim2real_learning/</link>
+      <link>https://www.fangyizhang.com/project/sim2real_learning/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/sim2real_learning/</guid>
+      <guid>https://www.fangyizhang.com/project/sim2real_learning/</guid>
       <description>&lt;p&gt;This is my Ph.D. project in the &lt;a href=&#34;https://www.roboticvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australian Centre for Robotic Vision&lt;/a&gt; at &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Robotics@QUT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QUT&lt;/a&gt;, with supervisions from &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Peter&amp;#43;Corke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter Corke&lt;/a&gt;, &lt;a href=&#34;http://juxi.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jürgen Leitner&lt;/a&gt;, &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Michael&amp;#43;Milford&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Michael Milford&lt;/a&gt; and &lt;a href=&#34;https://www.roboticvision.org/rv_person/ben-upcroft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Upcroft&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;learning-planar-reaching-in-simulation&#34;&gt;&lt;strong&gt;Learning Planar Reaching in Simulation&lt;/strong&gt;&lt;/h3&gt;
 

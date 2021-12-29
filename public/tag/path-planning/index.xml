@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>path planning | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/tag/path-planning/</link>
-      <atom:link href="https://new.fangyizhang.com/tag/path-planning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/tag/path-planning/</link>
+      <atom:link href="https://www.fangyizhang.com/tag/path-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>path planning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Wed, 31 Dec 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>path planning</title>
-      <link>https://new.fangyizhang.com/tag/path-planning/</link>
+      <link>https://www.fangyizhang.com/tag/path-planning/</link>
     </image>
     
     <item>
       <title>VLC-Based Indoor Localization</title>
-      <link>https://new.fangyizhang.com/project/vlc/</link>
+      <link>https://www.fangyizhang.com/project/vlc/</link>
       <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/vlc/</guid>
+      <guid>https://www.fangyizhang.com/project/vlc/</guid>
       <description>&lt;p&gt;This is a project I worked on with &lt;a href=&#34;http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ming Liu&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/kejieqiujack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Kejie Qiu&lt;/a&gt; when I was a research assistant in the &lt;a href=&#34;https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAM-LAB&lt;/a&gt; at &lt;a href=&#34;http://www.ust.hk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HKUST&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

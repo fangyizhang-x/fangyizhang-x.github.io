@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robotic picking and placing | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/tag/robotic-picking-and-placing/</link>
-      <atom:link href="https://new.fangyizhang.com/tag/robotic-picking-and-placing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/tag/robotic-picking-and-placing/</link>
+      <atom:link href="https://www.fangyizhang.com/tag/robotic-picking-and-placing/index.xml" rel="self" type="application/rss+xml" />
     <description>robotic picking and placing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Sat, 31 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>robotic picking and placing</title>
-      <link>https://new.fangyizhang.com/tag/robotic-picking-and-placing/</link>
+      <link>https://www.fangyizhang.com/tag/robotic-picking-and-placing/</link>
     </image>
     
     <item>
       <title>Robotic Manipulation for Warehouse and Household Applications</title>
-      <link>https://new.fangyizhang.com/project/robotic_manipulation/</link>
+      <link>https://www.fangyizhang.com/project/robotic_manipulation/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/robotic_manipulation/</guid>
+      <guid>https://www.fangyizhang.com/project/robotic_manipulation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;h3 id=&#34;amazon-picking-challenge-2016&#34;&gt;&lt;strong&gt;Amazon Picking Challenge (2016)&lt;/strong&gt;&lt;/h3&gt;

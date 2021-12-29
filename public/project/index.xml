@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Fangyi Zhang (张方毅)</title>
-    <link>https://new.fangyizhang.com/project/</link>
-      <atom:link href="https://new.fangyizhang.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.fangyizhang.com/project/</link>
+      <atom:link href="https://www.fangyizhang.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Fangyi Zhang</copyright><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://new.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.fangyizhang.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://new.fangyizhang.com/project/</link>
+      <link>https://www.fangyizhang.com/project/</link>
     </image>
     
     <item>
       <title>Learning Real-world Visuo-motor Policies from Simulation</title>
-      <link>https://new.fangyizhang.com/project/sim2real_learning/</link>
+      <link>https://www.fangyizhang.com/project/sim2real_learning/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/sim2real_learning/</guid>
+      <guid>https://www.fangyizhang.com/project/sim2real_learning/</guid>
       <description>&lt;p&gt;This is my Ph.D. project in the &lt;a href=&#34;https://www.roboticvision.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Australian Centre for Robotic Vision&lt;/a&gt; at &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Robotics@QUT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QUT&lt;/a&gt;, with supervisions from &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Peter&amp;#43;Corke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Peter Corke&lt;/a&gt;, &lt;a href=&#34;http://juxi.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jürgen Leitner&lt;/a&gt;, &lt;a href=&#34;https://wiki.qut.edu.au/display/cyphy/Michael&amp;#43;Milford&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Michael Milford&lt;/a&gt; and &lt;a href=&#34;https://www.roboticvision.org/rv_person/ben-upcroft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ben Upcroft&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;learning-planar-reaching-in-simulation&#34;&gt;&lt;strong&gt;Learning Planar Reaching in Simulation&lt;/strong&gt;&lt;/h3&gt;
 
@@ -50,9 +50,9 @@
     
     <item>
       <title>Robotic Manipulation for Warehouse and Household Applications</title>
-      <link>https://new.fangyizhang.com/project/robotic_manipulation/</link>
+      <link>https://www.fangyizhang.com/project/robotic_manipulation/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/robotic_manipulation/</guid>
+      <guid>https://www.fangyizhang.com/project/robotic_manipulation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;h3 id=&#34;amazon-picking-challenge-2016&#34;&gt;&lt;strong&gt;Amazon Picking Challenge (2016)&lt;/strong&gt;&lt;/h3&gt;
@@ -93,9 +93,9 @@
     
     <item>
       <title>Example Project</title>
-      <link>https://new.fangyizhang.com/project/example/</link>
+      <link>https://www.fangyizhang.com/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/example/</guid>
+      <guid>https://www.fangyizhang.com/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>VLC-Based Indoor Localization</title>
-      <link>https://new.fangyizhang.com/project/vlc/</link>
+      <link>https://www.fangyizhang.com/project/vlc/</link>
       <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://new.fangyizhang.com/project/vlc/</guid>
+      <guid>https://www.fangyizhang.com/project/vlc/</guid>
       <description>&lt;p&gt;This is a project I worked on with &lt;a href=&#34;http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ming Liu&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/kejieqiujack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Kejie Qiu&lt;/a&gt; when I was a research assistant in the &lt;a href=&#34;https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAM-LAB&lt;/a&gt; at &lt;a href=&#34;http://www.ust.hk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HKUST&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
