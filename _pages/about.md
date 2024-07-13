@@ -9,10 +9,10 @@ profile:
   align: right
   image: cv_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>S Block, S1130</p>
-    <p>QUT Gardens Point Campus, 2 George Street</p>
-    <p>Brisbane, Queensland, Australia</p>
+  # more_info: >
+    # <p>S Block, S1130</p>
+    # <p>QUT Gardens Point Campus, 2 George Street</p>
+    # <p>Brisbane, Queensland, Australia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
