@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.fangyizhang.com/sitemap.xml
+Sitemap: https://fangyizhang-x.github.io/sitemap.xml
