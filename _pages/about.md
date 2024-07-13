@@ -2,7 +2,7 @@
 layout: about
 title: Fangyi Zhang
 permalink: /
-subtitle: Research Fellow, [QUT Centre for Robotics](https://research.qut.edu.au/qcr/) 
+subtitle: Research Fellow, <a href='https://research.qut.edu.au/qcr/'>QUT Centre for Robotics</a>. 
 # Address. Contacts. Moto. Etc.
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: cv_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>S Block, S1130</p>
-    # <p>QUT Gardens Point Campus, 2 George Street</p>
-    # <p>Brisbane, Queensland, Australia</p>
+    <p>S Block, S1130</p>
+    <p>QUT Gardens Point Campus, 2 George Street</p>
+    <p>Brisbane, Queensland, Australia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
