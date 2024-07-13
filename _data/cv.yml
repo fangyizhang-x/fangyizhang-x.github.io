@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Robotics and Artificial Intelligence
+      institution: Australian Centre for Robotic Vision (ACRV), Queensland University of Technology (QUT)
+      year: 2018
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.Eng. in Automation
+      institution: East China Jiaotong University (ECJTU)
+      year: 2010
       description:
         - Description 1.
         - Description 2.
