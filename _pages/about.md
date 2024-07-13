@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Fangyi Zhang
+title: about
 permalink: /
 subtitle: Research Fellow, <a href='https://research.qut.edu.au/qcr/'>QUT Centre for Robotics</a>. 
 # Address. Contacts. Moto. Etc.
