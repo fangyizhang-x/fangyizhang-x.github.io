@@ -2,7 +2,7 @@
 layout: page
 title: VLC-Based Indoor Localization
 description: This is a project I worked on with Prof. Ming Liu and Mr. Kejie Qiu when I was a research assistant in the RAM-LAB at HKUST. Contributions: Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties.
-img: assets/img/project_2.png
+img: assets/img/project_3.png
 importance: 3
 category: work
 related_publications: false
