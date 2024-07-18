@@ -5,6 +5,7 @@ description: Amazon Picking Challenge (2016) As part of the Team ACRV for the Am
 img: assets/img/project_2.png
 importance: 2
 category: work
+related_publications: false
 ---
 <!-- Project title and date -->
 <h3><strong>Robotic Manipulation for Warehouse and Household Applications</strong></h3>

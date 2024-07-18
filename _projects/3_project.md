@@ -5,6 +5,7 @@ description: This is a project I worked on with Prof. Ming Liu and Mr. Kejie Qiu
 img: assets/img/project_2.png
 importance: 3
 category: work
+related_publications: false
 ---
 <!-- Project title and date -->
 <h3><strong>VLC-Based Indoor Localization</strong></h3>
