@@ -1,81 +1,55 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Robotic Manipulation for Warehouse and Household Applications
+description: Amazon Picking Challenge (2016) As part of the Team ACRV for the Amazon Picking Challenge 2016, I worked on hand-eye calibration with Dr. Leo Wu. Household Applications This is a project I worked on during my visit to the Perception and Robotics Group at the University of Maryland, College Park, Sep-Dec 2016.
+img: assets/img/project_2.png
 importance: 2
 category: work
 giscus_comments: true
 ---
+<!-- Project title and date -->
+<h3>Robotic Manipulation for Warehouse and Household Applications</h3>
+<p>Dec 31, 2016</p>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+<!-- Project picture -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<!-- Content -->
+<h4 id="amazon-picking-challenge-2016"><strong>Amazon Picking Challenge (2016)</strong></h4>
+<p>
+    As part of the <a href="https://research.qut.edu.au/ras/research/amazon-picking-challenge-2016/" target="_blank" rel="noopener">Team ACRV</a> for the <a href="http://pwurman.org/amazonpickingchallenge/results.shtml" target="_blank" rel="noopener">Amazon Picking Challenge 2016</a>, I worked on hand-eye calibration with <a href="https://sites.google.com/site/wuliaothu/home" target="_blank" rel="noopener">Dr. Leo Wu</a>.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kiPumsk9TBk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+</p>
+
+<h4 id="household-applications"><strong>Household Applications</strong></h4>
+<p>This is a project I worked on during my visit to the <a href="http://prg.cs.umd.edu/" target="_blank" rel="noopener">Perception and Robotics Group</a> at the <a href="https://umd.edu/" target="_blank" rel="noopener">University of Maryland</a>, College Park, Sep-Dec 2016. A mobile manipulation robot was developed for housework in a kitchen scenario, where I mainly took charge of the sub-task of table cleaning. Thanks to <a href="http://legacydirs.umiacs.umd.edu/~yiannis/" target="_blank" rel="noopener">Prof. Yiannis Aloimonos</a>, <a href="http://legacydirs.umiacs.umd.edu/~fer/" target="_blank" rel="noopener">Dr. Cornelia Fermüller</a>, <a href="https://users.cecs.anu.edu.au/~yili/" target="_blank" rel="noopener">Dr. Yi Li</a>, <a href="https://yezhouyang.engineering.asu.edu/" target="_blank" rel="noopener">Dr. Yezhou Yang</a> and my colleagues: <a href="http://users.cecs.anu.edu.au/~fwang/" target="_blank" rel="noopener">Dr. Fang Wang</a>, Dr. Ren Mao, <a href="https://scholar.google.com/citations?user=eDDJ48UAAAAJ&amp;hl=en" target="_blank" rel="noopener">Dr. Aleksandrs Ecins</a>, <a href="https://scholar.google.com/citations?user=PJQ8XgwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Dr. Wentao Luan</a>, <a href="https://www.cs.umd.edu/~kzampog/" target="_blank" rel="noopener">Mr. Konstantinos Zampogiannis</a>, Mr. Yi Zhang, <a href="http://legacydirs.umiacs.umd.edu/~kganguly/" target="_blank" rel="noopener">Mr. Kanishka Ganguly</a>, <a href="https://analogicalnexus.github.io/" target="_blank" rel="noopener">Mr. Chethan M Parameshwara</a>.</p>
+
+<h5 id="table-cleaning"><strong>Table Cleaning</strong></h5>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/QyQWNof-8v4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<h5 id="refrigerator-operating"><strong>Refrigerator Operating</strong></h5>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/1rK_O8T_ck4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
-```
 
-{% endraw %}
+<h5 id="microwave-operating"><strong>Microwave Operating</strong></h5>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/WUcqNiUzKvI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<div class="article-tags">
+  <a class="badge badge-light" href="/tag/robotic-manipulation/">robotic manipulation</a>
+  <a class="badge badge-light" href="/tag/robotic-picking-and-placing/">robotic picking and placing</a>
+  <a class="badge badge-light" href="/tag/robotic-vision/">robotic vision</a>
+  <a class="badge badge-light" href="/tag/deep-learning/">deep learning</a>
+  <a class="badge badge-light" href="/tag/motion-planning/">motion planning</a>
+</div>
