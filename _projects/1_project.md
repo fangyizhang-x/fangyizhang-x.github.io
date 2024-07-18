@@ -7,23 +7,11 @@ importance: 1
 category: work
 related_publications: true
 ---
-<h3 class="caption">
-    Learning Real-world Visuo-motor Policies from Simulation
-    <div>May 31, 2018</div>
-</h3>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<h3 class="caption">
-    Learning Planar Reaching in Simulation
-</h3>
-<div class="container">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=6cz-mcM4Qkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 <p>This is my Ph.D. project in the <a href="https://www.roboticvision.org/" target="_blank" rel="noopener">Australian Centre for Robotic Vision</a> at <a href="https://wiki.qut.edu.au/display/cyphy/Robotics@QUT" target="_blank" rel="noopener">QUT</a>, with supervisions from <a href="https://wiki.qut.edu.au/display/cyphy/Peter&#43;Corke" target="_blank" rel="noopener">Prof. Peter Corke</a>, <a href="http://juxi.net/" target="_blank" rel="noopener">Dr. Jürgen Leitner</a>, <a href="https://wiki.qut.edu.au/display/cyphy/Michael&#43;Milford" target="_blank" rel="noopener">Prof. Michael Milford</a> and <a href="https://www.roboticvision.org/rv_person/ben-upcroft/" target="_blank" rel="noopener">Dr. Ben Upcroft</a>.</p>
 
