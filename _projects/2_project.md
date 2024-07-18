@@ -5,10 +5,9 @@ description: Amazon Picking Challenge (2016) As part of the Team ACRV for the Am
 img: assets/img/project_2.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 <!-- Project title and date -->
-<h3>Robotic Manipulation for Warehouse and Household Applications</h3>
+<h3><strong>Robotic Manipulation for Warehouse and Household Applications</strong></h3>
 <p>Dec 31, 2016</p>
 
 <!-- Project picture -->
@@ -19,7 +18,7 @@ giscus_comments: true
 </div>
 
 <!-- Content -->
-<h4 id="amazon-picking-challenge-2016"><strong>Amazon Picking Challenge (2016)</strong></h4>
+<h4 class="mt-3" id="amazon-picking-challenge-2016"><strong>Amazon Picking Challenge (2016)</strong></h4>
 <p>
     As part of the <a href="https://research.qut.edu.au/ras/research/amazon-picking-challenge-2016/" target="_blank" rel="noopener">Team ACRV</a> for the <a href="http://pwurman.org/amazonpickingchallenge/results.shtml" target="_blank" rel="noopener">Amazon Picking Challenge 2016</a>, I worked on hand-eye calibration with <a href="https://sites.google.com/site/wuliaothu/home" target="_blank" rel="noopener">Dr. Leo Wu</a>.
 
@@ -28,7 +27,7 @@ giscus_comments: true
 </div>
 </p>
 
-<h4 id="household-applications"><strong>Household Applications</strong></h4>
+<h4 class="mt-3" id="household-applications"><strong>Household Applications</strong></h4>
 <p>This is a project I worked on during my visit to the <a href="http://prg.cs.umd.edu/" target="_blank" rel="noopener">Perception and Robotics Group</a> at the <a href="https://umd.edu/" target="_blank" rel="noopener">University of Maryland</a>, College Park, Sep-Dec 2016. A mobile manipulation robot was developed for housework in a kitchen scenario, where I mainly took charge of the sub-task of table cleaning. Thanks to <a href="http://legacydirs.umiacs.umd.edu/~yiannis/" target="_blank" rel="noopener">Prof. Yiannis Aloimonos</a>, <a href="http://legacydirs.umiacs.umd.edu/~fer/" target="_blank" rel="noopener">Dr. Cornelia Fermüller</a>, <a href="https://users.cecs.anu.edu.au/~yili/" target="_blank" rel="noopener">Dr. Yi Li</a>, <a href="https://yezhouyang.engineering.asu.edu/" target="_blank" rel="noopener">Dr. Yezhou Yang</a> and my colleagues: <a href="http://users.cecs.anu.edu.au/~fwang/" target="_blank" rel="noopener">Dr. Fang Wang</a>, Dr. Ren Mao, <a href="https://scholar.google.com/citations?user=eDDJ48UAAAAJ&amp;hl=en" target="_blank" rel="noopener">Dr. Aleksandrs Ecins</a>, <a href="https://scholar.google.com/citations?user=PJQ8XgwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Dr. Wentao Luan</a>, <a href="https://www.cs.umd.edu/~kzampog/" target="_blank" rel="noopener">Mr. Konstantinos Zampogiannis</a>, Mr. Yi Zhang, <a href="http://legacydirs.umiacs.umd.edu/~kganguly/" target="_blank" rel="noopener">Mr. Kanishka Ganguly</a>, <a href="https://analogicalnexus.github.io/" target="_blank" rel="noopener">Mr. Chethan M Parameshwara</a>.</p>
 
 <h5 id="table-cleaning"><strong>Table Cleaning</strong></h5>
@@ -36,17 +35,17 @@ giscus_comments: true
   <iframe src="https://www.youtube.com/embed/QyQWNof-8v4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h5 id="refrigerator-operating"><strong>Refrigerator Operating</strong></h5>
+<h5 class="mt-3" id="refrigerator-operating"><strong>Refrigerator Operating</strong></h5>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/1rK_O8T_ck4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h5 id="microwave-operating"><strong>Microwave Operating</strong></h5>
+<h5 class="mt-3" id="microwave-operating"><strong>Microwave Operating</strong></h5>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/WUcqNiUzKvI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<div class="article-tags">
+<div class="mt-3">
   <a class="badge badge-light" href="/tag/robotic-manipulation/">robotic manipulation</a>
   <a class="badge badge-light" href="/tag/robotic-picking-and-placing/">robotic picking and placing</a>
   <a class="badge badge-light" href="/tag/robotic-vision/">robotic vision</a>
