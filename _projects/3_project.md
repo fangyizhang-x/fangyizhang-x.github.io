@@ -20,7 +20,7 @@ related_publications: false
 
 <!-- Content -->
 <div class="mt-3">
-      <p>This is a project I worked on with <a href="http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium" target="_blank" rel="noopener">Prof. Ming Liu</a> and <a href="https://sites.google.com/site/kejieqiujack/" target="_blank" rel="noopener">Mr. Kejie Qiu</a> when I was a research assistant in the <a href="https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning" target="_blank" rel="noopener">RAM-LAB</a> at <a href="http://www.ust.hk/" target="_blank" rel="noopener">HKUST</a>.</p>
+      <p>This is a project I worked on with <a href="https://ram-lab.com/people/#dr-ming-liu--director" target="_blank" rel="noopener">Prof. Ming Liu</a> and <a href="https://sites.google.com/site/kejieqiujack/" target="_blank" rel="noopener">Mr. Kejie Qiu</a> when I was a research assistant in the <a href="https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning" target="_blank" rel="noopener">RAM-LAB</a> at <a href="http://www.ust.hk/" target="_blank" rel="noopener">HKUST</a>.</p>
 
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://www.youtube.com/embed/FGUM7P4xpGg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
