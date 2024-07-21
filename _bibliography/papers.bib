@@ -72,6 +72,18 @@
   abstract={Face clustering has attracted rising research interest recently to take advantage of massive amounts of face images on the web. State-of-the-art performance has been achieved by Graph Convolutional Networks (GCN) due to their powerful representation capacity. However, existing GCN-based methods build face graphs mainly according to kNN relations in the feature space, which may lead to a lot of noise edges connecting two faces of different classes. The face features will be polluted when messages pass along these noise edges, thus degrading the performance of GCNs. In this paper, a novel algorithm named Ada-NETS is proposed to cluster faces by constructing clean graphs for GCNs. In Ada-NETS, each face is transformed to a new structure space, obtaining robust features by considering face features of the neighbour images. Then, an adaptive neighbour discovery strategy is proposed to determine a proper number of edges connecting to each face image. It significantly reduces the noise edges while maintaining the good ones to build a graph with clean yet rich edges for GCNs to cluster faces. Experiments on multiple public clustering datasets show that Ada-NETS significantly outperforms current state-of-the-art methods, proving its superiority and generalization.}
 }
 
+@INPROCEEDINGS{9746149,
+  title={Jmpnet: Joint Motion Prediction for Learning-Based Video Compression},
+  author={Dongyang Li and Zhenhong Sun and Zhiyu Tan and Xiuyu Sun and Fangyi Zhang and Yichen Qian and Hao Li},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
+  year={2022},
+  pages={1855--1859},
+  doi={10.1109/ICASSP43922.2022.9746149},
+  pdf={https://ieeexplore.ieee.org/document/9746149},
+  preview={brownian-motion.gif},
+  abstract={In recent years, more attention is attracted by learning-based approaches in the field of video compression. Recent methods of this kind normally consist of three major components: intra-frame network, motion prediction network, and residual network, among which the motion prediction part is particularly critical for video compression. Benefiting from the optical flow which enables dense motion prediction, recent methods have shown competitive performance compared with traditional codecs. However, problems such as tail shadow and background distortion in the predicted frame remain unsolved. To tackle these problems, JMPNet is introduced in this paper to provide more accurate motion information by using both optical flow and dynamic local filter as well as an attention map to further fuse these motion information in a smarter way. Experimental results show that the proposed method surpasses state-of-the-art (SOTA) rate-distortion (RD) performance in the most data-sets.}
+}
+
 @inproceedings{yang2021gcn,
   title={GCN-Based Linkage Prediction for Face Clusteringon Imbalanced Datasets: An Empirical Study},
   author={Huafeng Yang and Xingjian Chen and Fangyi Zhang and Guangyue Hei and Yunjie Wang and Rong Du},
@@ -81,6 +93,25 @@
   pdf={https://www.researchgate.net/publication/353043011_GCN-Based_Linkage_Prediction_for_Face_Clusteringon_Imbalanced_Datasets_An_Empirical_Study},
   preview={GCN_Based_Linkage.png},
   abstract={In recent years, benefiting from the expressivepower of Graph Convolutional Networks (GCNs),significant breakthroughs have been made in faceclustering. However, rare attention has been paidto GCN-based clustering on imbalanced data. Al-though imbalance problem has been extensivelystudied, the impact of imbalanced data on GCN-based linkage prediction task is quite different,which would cause problems in two aspects: im-balanced linkage labels and biased graph represen-tations. The problem of imbalanced linkage labelsis similar to that in image classification task, but thelatter is a particular problem in GCN-based clus-tering via linkage prediction. Significantly biasedgraph representations in training can cause catas-trophic overfitting of a GCN model. To tacklethese problems, we evaluate the feasibility of thoseexisting methods for imbalanced image classifica-tion problem on graphs with extensive experiments,and present a new method to alleviate the imbal-anced labels and also augment graph representa-tions using a Reverse-Imbalance Weighted Sam-pling (RIWS) strategy, followed with insightfulanalyses and discussions. A series of imbalancedbenchmark datasets synthesized from MS-Celeb-1M and DeepFashion will be openly available.}
+}
+
+@inproceedings{10.1145/3474085.3475698,
+  title = {Interpolation Variable Rate Image Compression},
+  author = {Zhenhong Sun and Zhiyu Tan and Xiuyu Sun and Fangyi Zhang and Yichen Qian and Dongyang Li and Hao Li},
+  year = {2021},
+  isbn = {9781450386517},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3474085.3475698},
+  doi = {10.1145/3474085.3475698},
+  booktitle = {ACM International Conference on Multimedia},
+  pages = {5574--5582},
+  numpages = {9},
+  keywords = {learned image compression, interpolation variable rate control, convolutional neural network (cnn)},
+  location = {Virtual Event, China},
+  pdf={https://arxiv.org/pdf/2109.09280},
+  preview={Interpolation_Variable.png},
+  abstract={Compression standards have been used to reduce the cost of image storage and transmission for decades. In recent years, learned image compression methods have been proposed and achieved compelling performance to the traditional standards. However, in these methods, a set of different networks are used for various compression rates, resulting in a high cost in model storage and training. Although some variable-rate approaches have been proposed to reduce the cost by using a single network, most of them brought some performance degradation when applying fine rate control. To enable variable-rate control without sacrificing the performance, we propose an efficient Interpolation Variable-Rate (IVR) network, by introducing a handy Interpolation Channel Attention (InterpCA) module in the compression network. With the use of two hyperparameters for rate control and linear interpolation, the InterpCA achieves a fine PSNR interval of 0.001 dB and a fine rate interval of 0.0001 Bits-Per-Pixel (BPP) with 9000 rates in the IVR network. Experimental results demonstrate that the IVR network is the first variable-rate learned method that outperforms VTM 9.0 (intra) in PSNR and Multiscale Structural Similarity (MS-SSIM).}
 }
 
 @article{zhang2019adversarial,
@@ -120,6 +151,8 @@
   year={2017},
   institution={Sydney, Australia},
   URL={http://www.araa.asn.au/acra/acra2017/papers/pap146s1-file1.pdf},
+  pdf={https://arxiv.org/pdf/1610.06781},
+  preview={Modular_Deep_Q.png},
   abstract={While deep learning has had significant successes in computer vision thanks to the abundance of visual data, collecting sufficiently large real-world datasets for robot learning can be costly. To increase the practicality of these techniques on real robots, we propose a modular deep reinforcement learning method capable of transferring models trained in simulation to a real-world robotic task. We introduce a bottleneck between perception and control, enabling the networks to be trained independently, but then merged and fine-tuned in an end-to-end manner to further improve hand-eye coordination. On a canonical, planar visually-guided robot reaching task a fine-tuned accuracy of 1.6 pixels is achieved, a significant improvement over naive transfer (17.5 pixels), showing the potential for more complicated and broader applications. Our method provides a technique for more efficient learning and transfer of visuo-motor policies for real robotic systems without relying entirely on large real-world robot datasets.}
 }
 
@@ -190,31 +223,4 @@
   pages={200--205},
   doi={10.1109/CoASE.2015.7294062},
   abstract={For mobile robots and position-based services, localization is the most fundamental capability while path-planning is an important application based on that. A novel localization and path-planning solution based on a low-cost Visible Light Communication (VLC) system for indoor environments is proposed in this paper. A number of modulated LED lights are used as beacons to aid indoor localization additional to illumination. A Gaussian Process (GP) is used to model the intensity distributions of the light sources. Path-planning is hereby feasible by using the GP variance field, rather than using a metric map. Graph-based path-planners are introduced to cope with the practical situations. We demonstrate our path-planning system by real-time experiments performed on a tablet PC in an indoor environment.}
-}
-
-@inproceedings{10.1145/3474085.3475698,
-  author = {Zhenhong Sun and Zhiyu Tan and Xiuyu Sun and Fangyi Zhang and Yichen Qian and Dongyang Li and Hao Li},
-  title = {Interpolation Variable Rate Image Compression},
-  year = {2021},
-  isbn = {9781450386517},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3474085.3475698},
-  doi = {10.1145/3474085.3475698},
-  booktitle = {ACM International Conference on Multimedia},
-  pages = {5574--5582},
-  numpages = {9},
-  keywords = {learned image compression, interpolation variable rate control, convolutional neural network (cnn)},
-  location = {Virtual Event, China},
-  abstract={Compression standards have been used to reduce the cost of image storage and transmission for decades. In recent years, learned image compression methods have been proposed and achieved compelling performance to the traditional standards. However, in these methods, a set of different networks are used for various compression rates, resulting in a high cost in model storage and training. Although some variable-rate approaches have been proposed to reduce the cost by using a single network, most of them brought some performance degradation when applying fine rate control. To enable variable-rate control without sacrificing the performance, we propose an efficient Interpolation Variable-Rate (IVR) network, by introducing a handy Interpolation Channel Attention (InterpCA) module in the compression network. With the use of two hyperparameters for rate control and linear interpolation, the InterpCA achieves a fine PSNR interval of 0.001 dB and a fine rate interval of 0.0001 Bits-Per-Pixel (BPP) with 9000 rates in the IVR network. Experimental results demonstrate that the IVR network is the first variable-rate learned method that outperforms VTM 9.0 (intra) in PSNR and Multiscale Structural Similarity (MS-SSIM).}
-}
-
-@INPROCEEDINGS{9746149,
-  author={Dongyang Li and Zhenhong Sun and Zhiyu Tan and Xiuyu Sun and Fangyi Zhang and Yichen Qian and Hao Li},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
-  title={Jmpnet: Joint Motion Prediction for Learning-Based Video Compression},
-  year={2022},
-  pages={1855--1859},
-  doi={10.1109/ICASSP43922.2022.9746149},
-  abstract={In recent years, more attention is attracted by learning-based approaches in the field of video compression. Recent methods of this kind normally consist of three major components: intra-frame network, motion prediction network, and residual network, among which the motion prediction part is particularly critical for video compression. Benefiting from the optical flow which enables dense motion prediction, recent methods have shown competitive performance compared with traditional codecs. However, problems such as tail shadow and background distortion in the predicted frame remain unsolved. To tackle these problems, JMPNet is introduced in this paper to provide more accurate motion information by using both optical flow and dynamic local filter as well as an attention map to further fuse these motion information in a smarter way. Experimental results show that the proposed method surpasses state-of-the-art (SOTA) rate-distortion (RD) performance in the most data-sets.}
 }
