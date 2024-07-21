@@ -28,9 +28,9 @@
 }
 
 @ARTICLE{10538419,
+  title={Towards Assessing Compliant Robotic Grasping From First-Object Perspective via Instrumented Objects}, 
   author={Knopke, Maceon and Zhu, Liguo and Corke, Peter and Zhang, Fangyi},
   journal={IEEE Robotics and Automation Letters (RA-L)}, 
-  title={Towards Assessing Compliant Robotic Grasping From First-Object Perspective via Instrumented Objects}, 
   year={2024},
   volume={9},
   number={7},
@@ -44,9 +44,9 @@
   }
 
   @INPROCEEDINGS{10342262,
+  title={Re-Evaluating Parallel Finger-Tip Tactile Sensing for Inferring Object Adjectives: An Empirical Study}, 
   author={Zhang, Fangyi and Corke, Peter},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={Re-Evaluating Parallel Finger-Tip Tactile Sensing for Inferring Object Adjectives: An Empirical Study}, 
   year={2023},
   pages={8951-8957},
   keywords={Tactile sensors;Sensors;Biosensors;Intelligent robots},
@@ -57,17 +57,33 @@
   abstract={Finger-tip tactile sensors are increasingly used for robotic sensing to establish stable grasps and to infer object properties. Promising performance has been shown in a number of works for inferring adjectives that describe the object, but there remains a question about how each taxel contributes to the performance. This paper explores this question with empirical experiments, leading insights for future finger-tip tactile sensor usage and design.}
   }
 
+@inproceedings{doi:10.1137/1.9781611977653.ch74,
+  title = {A Linkage-based Doubly Imbalanced Graph Learning Framework for Face Clustering},
+  author = {Huafeng Yang and Qijie Shen and Xingjian Chen and Fangyi Zhang and Rong Du},
+  booktitle = {SIAM International Conference on Data Mining},
+  pages = {658--666},
+  year = {2023},
+  doi = {10.1137/1.9781611977653.ch74},
+  URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch74},
+  eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch74},
+  pdf={https://arxiv.org/pdf/2107.02477},
+  preview={a_linkage-based.png},
+  abstract={In recent years, benefiting from the expressive power of Graph Convolutional Networks (GCNs), significant breakthroughs have been made in face clustering area. However, rare attention has been paid to GCN-based clustering on imbalanced data. Although imbalance problem has been extensively studied, the impact of imbalanced data on GCN- based linkage prediction task is quite different, which would cause problems in two aspects: imbalanced linkage labels and biased graph representations. The former is similar to that in classic image classification task, but the latter is a particular problem in GCN-based clustering via linkage prediction. Significantly biased graph representations in training can cause catastrophic over-fitting of a GCN model. To tackle these challenges, we propose a linkage-based doubly imbalanced graph learning framework for face clustering. In this framework, we evaluate the feasibility of those existing methods for imbalanced image classification problem on GCNs, and present a new method to alleviate the imbalanced labels and also augment graph representations using a Reverse-Imbalance Weighted Sampling (RIWS) strategy. With the RIWS strategy, probability-based class balancing weights could ensure the overall distribution of positive and negative samples; in addition, weighted random sampling provides diverse subgraph structures, which effectively alleviates the over-fitting problem and improves the representation ability of GCNs. Extensive experiments on series of imbalanced benchmark datasets synthesized from MS-Celeb-1M and DeepFashion demonstrate the effectiveness and generality of our proposed method.}
+}
+
 @inproceedings{wang2022robust,
+  title = {Robust Graph Structure Learning via Multiple Statistical Tests},
   author={Yaohua Wang and Fangyi Zhang and Ming Lin and Senzhang Wang and Xiuyu Sun and Rong Jin},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
   pages = {32083--32096},
   publisher = {Curran Associates, Inc.},
-  title = {Robust Graph Structure Learning via Multiple Statistical Tests},
   url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/cf7700139af1fa346d2f57f1f5c26c18-Paper-Conference.pdf},
   volume = {35},
   year = {2022},
   selected={true},
+  pdf={https://proceedings.neurips.cc/paper_files/paper/2022/file/cf7700139af1fa346d2f57f1f5c26c18-Paper-Conference.pdf},
+  preview={Robust_Graph_Structure.png},
   abstract={Graph structure learning aims to learn connectivity in a graph from data. It is particularly important for many computer vision related tasks since no explicit graph structure is available for images for most cases. A natural way to construct a graph among images is to treat each image as a node and assign pairwise image similarities as weights to corresponding edges. It is well known that pairwise similarities between images are sensitive to the noise in feature representations, leading to unreliable graph structures. We address this problem from the viewpoint of statistical tests. By viewing the feature vector of each node as an independent sample, the decision of whether creating an edge between two nodes based on their similarity in feature representation can be thought as a single statistical test. To improve the robustness in the decision of creating an edge, multiple samples are drawn and integrated by multiple statistical tests to generate a more reliable similarity measure, consequentially more reliable graph structure. The corresponding elegant matrix form named -Attention is designed for efficiency. The effectiveness of multiple tests for graph structure learning is verified both theoretically and empirically on multiple clustering and ReID benchmark datasets.}
 }
 
@@ -88,18 +104,6 @@
   year={2021},
   url={https://arxiv.org/abs/2107.02477v2},
   abstract={In recent years, benefiting from the expressivepower of Graph Convolutional Networks (GCNs),significant breakthroughs have been made in faceclustering. However, rare attention has been paidto GCN-based clustering on imbalanced data. Al-though imbalance problem has been extensivelystudied, the impact of imbalanced data on GCN-based linkage prediction task is quite different,which would cause problems in two aspects: im-balanced linkage labels and biased graph represen-tations. The problem of imbalanced linkage labelsis similar to that in image classification task, but thelatter is a particular problem in GCN-based clus-tering via linkage prediction. Significantly biasedgraph representations in training can cause catas-trophic overfitting of a GCN model. To tacklethese problems, we evaluate the feasibility of thoseexisting methods for imbalanced image classifica-tion problem on graphs with extensive experiments,and present a new method to alleviate the imbal-anced labels and also augment graph representa-tions using a Reverse-Imbalance Weighted Sam-pling (RIWS) strategy, followed with insightfulanalyses and discussions. A series of imbalancedbenchmark datasets synthesized from MS-Celeb-1M and DeepFashion will be openly available.}
-}
-
-@inproceedings{doi:10.1137/1.9781611977653.ch74,
-  author = {Huafeng Yang and Qijie Shen and Xingjian Chen and Fangyi Zhang and Rong Du},
-  title = {A Linkage-based Doubly Imbalanced Graph Learning Framework for Face Clustering},
-  booktitle = {SIAM International Conference on Data Mining},
-  pages = {658--666},
-  year = {2023},
-  doi = {10.1137/1.9781611977653.ch74},
-  URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch74},
-  eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch74},
-  abstract={In recent years, benefiting from the expressive power of Graph Convolutional Networks (GCNs), significant breakthroughs have been made in face clustering area. However, rare attention has been paid to GCN-based clustering on imbalanced data. Although imbalance problem has been extensively studied, the impact of imbalanced data on GCN- based linkage prediction task is quite different, which would cause problems in two aspects: imbalanced linkage labels and biased graph representations. The former is similar to that in classic image classification task, but the latter is a particular problem in GCN-based clustering via linkage prediction. Significantly biased graph representations in training can cause catastrophic over-fitting of a GCN model. To tackle these challenges, we propose a linkage-based doubly imbalanced graph learning framework for face clustering. In this framework, we evaluate the feasibility of those existing methods for imbalanced image classification problem on GCNs, and present a new method to alleviate the imbalanced labels and also augment graph representations using a Reverse-Imbalance Weighted Sampling (RIWS) strategy. With the RIWS strategy, probability-based class balancing weights could ensure the overall distribution of positive and negative samples; in addition, weighted random sampling provides diverse subgraph structures, which effectively alleviates the over-fitting problem and improves the representation ability of GCNs. Extensive experiments on series of imbalanced benchmark datasets synthesized from MS-Celeb-1M and DeepFashion demonstrate the effectiveness and generality of our proposed method.}
 }
 
 @article{zhang2019adversarial,
