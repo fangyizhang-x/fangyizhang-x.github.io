@@ -19,7 +19,6 @@
   altmetric={248277},
   dimensions={true},
   google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
   additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
   annotation={* Example use of superscripts<br>† Albert Einstein},
   selected={true}
