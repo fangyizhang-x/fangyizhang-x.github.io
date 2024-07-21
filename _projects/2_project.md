@@ -3,7 +3,7 @@ layout: page
 title: Robotic Manipulation for Warehouse and Household Applications
 description: Amazon Picking Challenge (2016) As part of the Team ACRV for the Amazon Picking Challenge 2016, I worked on hand-eye calibration with Dr. Leo Wu. Household Applications This is a project I worked on during my visit to the Perception and Robotics Group at the University of Maryland, College Park, Sep-Dec 2016.
 img: assets/img/project_2.png
-importance: 2
+importance: 4
 category: work
 related_publications: false
 ---
