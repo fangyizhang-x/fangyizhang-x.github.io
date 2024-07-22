@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Re-Evaluating Parallel Finger-Tip Tactile Sensing for Inferring Object Adjectives: An Empirical Study" was presented in IROS 2023.
+Our paper "Re-Evaluating Parallel Finger-Tip Tactile Sensing for Inferring Object Adjectives: An Empirical Study" was presented at [IROS 2023](https://ieee-iros.org/).
