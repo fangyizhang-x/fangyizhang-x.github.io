@@ -5,7 +5,7 @@ description: This is a project I worked on with Prof. Ming Liu and Mr. Kejie Qiu
 img: assets/img/project_3.png
 importance: 5
 category: work
-related_publications: false
+related_publications: true
 ---
 <!-- Project title and date -->
 <h3><strong>VLC-Based Indoor Localization</strong></h3>
@@ -28,8 +28,8 @@ related_publications: false
 
   <p class="mt-3">Contributions:</p>
   <ul>
-    <li>Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties.</li>
-    <li>Participated in the development of a light intensity distribution map generation algorithm using Gaussian Process Regression.</li>
-    <li>Participated in the development of localization and path planning algorithms using Kalman Filter (KF) and A star.</li>
+    <li>Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties {% cite zhang2015asynchronous %}.</li>
+    <li>Participated in the development of a light intensity distribution map generation algorithm using Gaussian Process Regression {% cite qiu2015visible %}.</li>
+    <li>Participated in the development of localization and path planning algorithms using Kalman Filter (KF) and A star {% cite 7294062 %}.</li>
   </ul>
 </div>

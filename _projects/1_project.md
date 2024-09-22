@@ -5,7 +5,7 @@ description: This is my Ph.D. project in the Australian Centre for Robotic Visio
 img: assets/img/project_1.png
 importance: 3
 category: work
-related_publications: false
+related_publications: true
 ---
 <!-- Project title and date -->
 <h3><strong>Learning Real-world Visuo-motor Policies from Simulation</strong></h3>
@@ -42,12 +42,12 @@ related_publications: false
 <!-- part 4 -->
 <p class="mt-3">Contributions:</p>
 <ul>
-  <li>Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation.</li>
-  <li>Proposed a modular deep Q network architecture for fast and low-cost transfer of visuo-motor policies from simulation to the real world.</li>
-  <li>Proposed an end-to-end fine-tuning method using weighted losses to improve hand-eye coordination.</li>
-  <li>Proposed a kinematics-based guided policy search method (K-GPS) to speed up Q learning for robotic applications where kinematic models are known.</li>
-  <li>Demonstrated in robotic reaching tasks on a real Baxter robot in velocity and position control modes, e.g., table-top object reaching in clutter and planar reaching.</li>
-  <li>More investigations are undergoing for semi-supervised and unsupervised transfer from simulation to the real world using adversarial discriminative approaches.</li>
+  <li>Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation {% cite zhang2015towards %}.</li>
+  <li>Proposed a modular deep Q network architecture for fast and low-cost transfer of visuo-motor policies from simulation to the real world {% cite zhang2017acra %}.</li>
+  <li>Proposed an end-to-end fine-tuning method using weighted losses to improve hand-eye coordination {% cite zhang2017cvpr %}.</li>
+  <li>Proposed a kinematics-based guided policy search method (K-GPS) to speed up Q learning for robotic applications where kinematic models are known {% cite zhang2017acra %}.</li>
+  <li>Demonstrated in robotic reaching tasks on a real Baxter robot in velocity and position control modes, e.g., table-top object reaching in clutter {% cite zhang2019adversarial %} and planar reaching {% cite zhang2017acra %}.</li>
+  <li>More investigations are undergoing for semi-supervised and unsupervised transfer from simulation to the real world using adversarial discriminative approaches {% cite zhang2019adversarial %}.</li>
 </ul>
 
 

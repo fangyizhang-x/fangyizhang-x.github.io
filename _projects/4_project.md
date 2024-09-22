@@ -20,7 +20,7 @@ related_publications: true
 
 <!-- Content -->
 <div class="mt-3">
-      <p>Please refer to <a href="https://research.qut.edu.au/qcr/Projects/tactile-based-robotic-manipulation/" target="_blank" rel="noopener">the QCR project page for more details.</a></p>
+      <p>Please refer to <a href="https://research.qut.edu.au/qcr/Projects/tactile-based-robotic-manipulation/" target="_blank" rel="noopener">the QCR project page for more details {% cite 10342262 %}.</a></p>
 
   <!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://www.youtube.com/embed/FGUM7P4xpGg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
