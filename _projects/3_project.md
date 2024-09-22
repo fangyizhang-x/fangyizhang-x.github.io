@@ -30,6 +30,6 @@ related_publications: true
   <ul>
     <li>Developed a beacon code selection algorithm and a decomposition algorithm for blindly mixed beacon signals, based on CDMA code selection principles and Gold-sequence correlation properties {% cite zhang2015asynchronous %}.</li>
     <li>Participated in the development of a light intensity distribution map generation algorithm using Gaussian Process Regression {% cite qiu2015visible %}.</li>
-    <li>Participated in the development of localization and path planning algorithms using Kalman Filter (KF) and A star {% cite 7294062 %}.</li>
+    <li>Participated in the development of localization and path planning algorithms using Kalman Filter (KF) and A star {% cite z7294062 %}.</li>
   </ul>
 </div>

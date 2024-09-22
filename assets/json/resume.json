@@ -34,7 +34,7 @@
     },
     {
       "name": "Alibaba DAMO Academy, Hangzhou, China",
-      "position": "Algorithm Expert",
+      "position": "Senior Algorithm Engineer (Algorithm Expert)",
       "url": "https://damo.alibaba.com/",
       "startDate": "2018-10",
       "endDate": "2021-11",
@@ -222,12 +222,13 @@
       "name": "Robotics and Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Machine Learning",
+        "Reinforcement Learning",
+        "Transfer Learning",
         "Robot Learning",
         "Robotic Manipulation",
         "Tactile Sensing",
         "Robotic Vision",
-        "Reinforcement Learning",
-        "Transfer Learning",
         "Autonomous Systems"
       ]
     }
