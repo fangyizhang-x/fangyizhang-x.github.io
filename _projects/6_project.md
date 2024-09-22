@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Learning Real-world Visuo-motor Policies from Simulation
-description: This is my Ph.D. project in the Australian Centre for Robotic Vision at QUT, with supervisions from Prof. Peter Corke, Dr. Jürgen Leitner, Prof. Michael Milford and Dr. Ben Upcroft.
-img: assets/img/project_1.png
-importance: 10
+title: Deep Learning and Its Utility for Data Mining and Computer Vision 
+description: This is the research I did at the Alibaba DAMO Academy.
+img: assets/img/project_6.png
+importance: 3
 category: work
 related_publications: true
 ---
 <!-- Project title and date -->
-<h3><strong>Learning Real-world Visuo-motor Policies from Simulation</strong></h3>
-<p>May 31, 2018</p>
+<h3><strong>Deep Learning and Its Utility for Data Mining and Computer Vision</strong></h3>
+<p>November 11, 2021</p>
 
 <!-- Project picture -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
