@@ -251,7 +251,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _projects/6_project.md
 
 keep_files:
   - CNAME

@@ -19,36 +19,37 @@ related_publications: true
 </div>
 
 <!-- Content -->
-<p>This is my Ph.D. project in the <a href="https://www.roboticvision.org/" target="_blank" rel="noopener">Australian Centre for Robotic Vision</a> at <a href="https://wiki.qut.edu.au/display/cyphy/Robotics@QUT" target="_blank" rel="noopener">QUT</a>, with supervisions from <a href="https://wiki.qut.edu.au/display/cyphy/Peter&#43;Corke" target="_blank" rel="noopener">Prof. Peter Corke</a>, <a href="http://juxi.net/" target="_blank" rel="noopener">Dr. Jürgen Leitner</a>, <a href="https://wiki.qut.edu.au/display/cyphy/Michael&#43;Milford" target="_blank" rel="noopener">Prof. Michael Milford</a> and <a href="https://www.roboticvision.org/rv_person/ben-upcroft/" target="_blank" rel="noopener">Dr. Ben Upcroft</a>.</p>
+<p>These are the works I did, co-led, or supervised at the <a href="https://damo.alibaba.com/" target="_blank" rel="noopener">Alibaba DAMO Academy</a>.</p>
 
-<!-- part 1 -->
+<p class="mt-3"> Research Highlights</p>
+<ul>
+  <li> Aiming to learn better visual representations/embeddings for diverse downstream tasks, we introduced a new attention mechanism (B-Attention) for more robust grasph structure learning via multiple statistical tests {% cite wang2022robust %}. The effectiveness of multiple tests for graph structure learning is verified both theoretically and empirically on multiple clustering and ReID benchmark datasets.</li>
+  <li> Aiming for learning better visual representations/embeddings with less noisy graphs using Graph Convolutional Neural Networks (GCNs), we proposed a method (Ada-NETS) to adaptively remove noisy nodes in graphs {% cite wang2022adanets %}. Experiments on multiple public clustering datasets show that Ada-NETS significantly outperforms current state-of-the-art methods, proving its superiority and generalization.</li>
+  <li> To better understand the data imbalance problem in training GCNs, we conducted an empirical study on GCN-based clustering with imbalanced datasets, yielding valuable insights into the issue {% cite yang2021gcn %}.</li>
+  <li> To tackle the problems of tail shadow and background distortion in learning-based video compression, we introduced a new method for more accurate motion prediction, which surpassed the state-of-the-art rate-distortion performance in most video compression datasets {% cite z9746149 %}.</li>
+  <li>To enable variable-rate control without sacrificing the performance, we proposed an efficient Interpolation Variable-Rate (IVR) network, by introducing a handy Interpolation Channel Attention (InterpCA) module in the compression network {% cite z10.1145/3474085.3475698 %}. The method achieves a fine PSNR interval of 0.001 dB and a fine rate interval of 0.0001 Bits-Per-Pixel (BPP) with 9000 rates in the IVR network. Experimental results demonstrate that the IVR network is the first variable-rate learned method that outperforms VTM 9.0 (intra) in PSNR and Multiscale Structural Similarity (MS-SSIM).</li>
+</ul>
+
+<!-- part 1
 <h4 id="learning-planar-reaching-in-simulation"><strong>Learning Planar Reaching in Simulation</strong></h4>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/6cz-mcM4Qkc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <!-- part 2 -->
-<h4 class="mt-3" id="robotic-planar-reaching-in-the-real-world"><strong>Robotic Planar Reaching in the Real World</strong></h4>
+<!-- <h4 class="mt-3" id="robotic-planar-reaching-in-the-real-world"><strong>Robotic Planar Reaching in the Real World</strong></h4>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/ybuFdsE6AjY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+</div> -->
 
 <!-- part 3 -->
-<h4 class="mt-3" id="learning-table-top-object-reaching-with-a-7-dof-robotic-arm-from-simulation"><strong>Learning Table-top Object Reaching with a 7 DoF Robotic Arm from Simulation</strong></h4>
+<!-- <h4 class="mt-3" id="learning-table-top-object-reaching-with-a-7-dof-robotic-arm-from-simulation"><strong>Learning Table-top Object Reaching with a 7 DoF Robotic Arm from Simulation</strong></h4>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/bVIw1DeuuYg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+</div> -->
 
 <!-- part 4 -->
-<p class="mt-3">Contributions:</p>
-<ul>
-  <li>Feasibility analysis on learning vision-based robotic planar reaching using DQNs in simulation {% cite zhang2015towards %}.</li>
-  <li>Proposed a modular deep Q network architecture for fast and low-cost transfer of visuo-motor policies from simulation to the real world {% cite zhang2017acra %}.</li>
-  <li>Proposed an end-to-end fine-tuning method using weighted losses to improve hand-eye coordination {% cite zhang2017cvpr %}.</li>
-  <li>Proposed a kinematics-based guided policy search method (K-GPS) to speed up Q learning for robotic applications where kinematic models are known {% cite zhang2017acra %}.</li>
-  <li>Demonstrated in robotic reaching tasks on a real Baxter robot in velocity and position control modes, e.g., table-top object reaching in clutter {% cite zhang2019adversarial %} and planar reaching {% cite zhang2017acra %}.</li>
-  <li>More investigations are undergoing for semi-supervised and unsupervised transfer from simulation to the real world using adversarial discriminative approaches {% cite zhang2019adversarial %}.</li>
-</ul>
+
 
 
 
