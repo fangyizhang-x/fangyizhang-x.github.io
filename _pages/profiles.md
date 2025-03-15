@@ -32,14 +32,11 @@ nav_order: 4
 <!-- <img src="../assets/img/group_photo.png" alt="Group Photo" width="300"> -->
 
 ### Current Students:
-- Lucas Hoefs (PhD student (starting 2025), co-supervised with [Dr Hui Xie](https://staffportal.curtin.edu.au/staff/profile/view/hui-xie-2a396275/) and [Dr Senjian An](https://staffportal.curtin.edu.au/staff/profile/view/senjian-an-433dd22d/), thesis title: Large Multimodal Model Powered Safe Policy Learning for Field Autonomous Robots)
-- Sooraj Vellolichembramunda (Honours student (starting 2025), project title: Building of Open-sourced Robotic Arms)
+- Lucas Hoefs - PhD student (starting 2025), co-supervised with [Dr Hui Xie](https://staffportal.curtin.edu.au/staff/profile/view/hui-xie-2a396275/) and [Dr Senjian An](https://staffportal.curtin.edu.au/staff/profile/view/senjian-an-433dd22d/), thesis title: Large Multimodal Model Powered Safe Policy Learning for Field Autonomous Robots
+- Sooraj Vellolichembramunda - Honours student (starting 2025), project title: Building of Open-sourced Robotic Arms
 
 ### Alumni:
-- [Robert Lee](https://www.linkedin.com/in/robert-lee-a8a98922b/) (PhD graduate (2023), co-supervised with [Prof. Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/peter.corke), now a Research Engineer at [Woven by Toyota](https://woven.toyota/en/))
-- [Liguo Zhu](https://liguozhu.netlify.app/) (Master’s graduate (2023), now a Machine Learning Engineer at [CTM](https://www.travelctm.com/global/))
-- [Maceon Knopke](https://www.linkedin.com/in/maceonknopke/) (Honours graduate (2023), now a Research Assistant at [QCR](https://research.qut.edu.au/qcr/))
-- [Tim De Keijzer](https://www.linkedin.com/in/tdekeijzer/) (Research intern and Master’s student at [Eindhoven University of Technology](https://www.tue.nl/en/) (2023), now a Mechatronics Designer at [Philips](https://www.philips.com))
-
-
-
+- [Robert Lee](https://www.linkedin.com/in/robert-lee-a8a98922b/) - PhD graduate (2023), co-supervised with [Prof. Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/peter.corke), now a Research Engineer at [Woven by Toyota](https://woven.toyota/en/)
+- [Liguo Zhu](https://liguozhu.netlify.app/) - Master’s graduate (2023), now a Machine Learning Engineer at [CTM](https://www.travelctm.com/global/)
+- [Maceon Knopke](https://www.linkedin.com/in/maceonknopke/) - Honours graduate (2023), now a Research Assistant at [QCR](https://research.qut.edu.au/qcr/)
+- [Tim De Keijzer](https://www.linkedin.com/in/tdekeijzer/) - Research intern and Master’s student at [Eindhoven University of Technology](https://www.tue.nl/en/) (2023), now a Mechatronics Designer at [Philips](https://www.philips.com)
