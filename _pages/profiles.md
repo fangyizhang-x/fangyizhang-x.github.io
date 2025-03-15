@@ -4,7 +4,7 @@ layout: page
 permalink: /people/
 title: people
 description: members of the lab or group
-img: assets/img/group_photo.png
+# img: assets/img/group_photo.png
 nav: true
 nav_order: 4
 
@@ -30,7 +30,7 @@ nav_order: 4
 ---
 
 <!-- ![Group Photo](../assets/img/group_photo.png) -->
-<!-- <img src="image.png" alt="Description" width="300"> -->
+<img src="../assets/img/group_photo.png" alt="Group Photo" width="300">
 
 ### Current Students:
 - Lucas Hoefs (PhD student, co-supervised with Dr Hui Xie and Dr Sengjian An)
