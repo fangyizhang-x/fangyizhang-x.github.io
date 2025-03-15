@@ -28,6 +28,8 @@ nav_order: 4
 #       <p>Your City, State 12345</p>
 ---
 
+![Group Photo](group_photo.png)
+
 ### Current Students:
 - Lucas Hoefs (PhD student, co-supervised with Dr Hui Xie and Dr Sengjian An)
 
