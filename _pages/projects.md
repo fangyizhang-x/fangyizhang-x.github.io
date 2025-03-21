@@ -11,7 +11,7 @@ horizontal: false
 
 # ERA Lab – Embodied Robotics & AI Lab
 
-The **Embodied Robotics & AI Lab (ERA Lab)**, led by [Dr. Fangyi Zhang](https://staffportal.curtin.edu.au/staff/profile/view/fangyi-zhang-a9c650e7/), focuses on advancing robotics and AI to equip robots with real-world skills. Since 2014, Dr. Zhang has specialized in robotics and AI, contributing extensively to research and innovation in the field.
+The **Embodied Robotics & AI Lab (ERA Lab)**, led by [Dr. Fangyi Zhang](https://staffportal.curtin.edu.au/staff/profile/view/fangyi-zhang-a9c650e7/), is dedicated to advancing robotics and AI, enabling robots to acquire real-world skills. Since 2014, Dr. Zhang has been actively contributing to research and innovation in these fields. For more details, please refer to the relevant project pages.
 
 We welcome collaborations with industry partners and researchers, as well as students interested in robotics and embodied AI. For inquiries, please contact [Dr. Fangyi Zhang](mailto:fangyi.zhang@curtin.edu.au).
 
