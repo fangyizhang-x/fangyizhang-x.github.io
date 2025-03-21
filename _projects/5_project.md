@@ -4,7 +4,7 @@ title: Assessing Compliant Robotic Manipulation with Instrumented Objects
 description: A project investigating using instrumented objects to assess compliant robotic manipulation performance.
 img: assets/img/project_5.png
 importance: 2
-category: work
+category: Robotics and AI
 related_publications: true
 ---
 <!-- Project title and date -->

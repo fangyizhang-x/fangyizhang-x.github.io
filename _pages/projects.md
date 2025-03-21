@@ -1,13 +1,19 @@
 ---
 layout: page
-title: projects
+title: ERA Lab
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research in the ERA Lab (including projects conducted  the director Fangyi Zhang during his past experience.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Robotics and AI, AI, Beyond]
 horizontal: false
 ---
+
+# ERA Lab – Embodied Robotics & AI Lab
+
+The **Embodied Robotics & AI Lab (ERA Lab)**, led by [Dr. Fangyi Zhang](https://staffportal.curtin.edu.au/staff/profile/view/fangyi-zhang-a9c650e7/), focuses on advancing robotics and AI to equip robots with real-world skills. Since 2014, Dr. Zhang has specialized in robotics and AI, contributing extensively to research and innovation in the field.
+
+We welcome collaborations with industry partners and researchers, as well as students interested in robotics and embodied AI. For inquiries, please contact [Dr. Fangyi Zhang](mailto:fangyi.zhang@curtin.edu.au).
 
 <!-- pages/projects.md -->
 <div class="projects">

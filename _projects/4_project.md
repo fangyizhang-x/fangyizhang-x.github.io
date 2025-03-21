@@ -4,7 +4,7 @@ title: Tactile-based Robotic Manipulation
 description: A project exploring tactile sensing and tactile-based robotic manipulation.
 img: assets/img/project_4.png
 importance: 1
-category: work
+category: Robotics and AI
 related_publications: true
 ---
 <!-- Project title and date -->

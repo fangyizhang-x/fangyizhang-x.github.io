@@ -4,7 +4,7 @@ title: Deep Learning and Its Utility for Data Mining and Computer Vision
 description: This is the research I did at the Alibaba DAMO Academy.
 img: assets/img/project_6.png
 importance: 3
-category: work
+category: AI
 related_publications: true
 ---
 <!-- Project title and date -->

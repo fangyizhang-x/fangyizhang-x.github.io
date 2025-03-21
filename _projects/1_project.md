@@ -4,7 +4,7 @@ title: Learning Real-world Visuo-motor Policies from Simulation
 description: This is my Ph.D. project in the Australian Centre for Robotic Vision at QUT, with supervisions from Prof. Peter Corke, Dr. Jürgen Leitner, Prof. Michael Milford and Dr. Ben Upcroft.
 img: assets/img/project_1.png
 importance: 10
-category: work
+category: Robotics and AI
 related_publications: true
 ---
 <!-- Project title and date -->
