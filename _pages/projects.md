@@ -5,7 +5,8 @@ permalink: /era_lab/
 description: Research in the ERA Lab.
 nav: true
 nav_order: 3
-display_categories: [Robotics and AI, AI, Beyond]
+# display_categories: [Robotics and AI, AI, Beyond]
+display_categories: [Robotics and AI]
 horizontal: false
 ---
 
