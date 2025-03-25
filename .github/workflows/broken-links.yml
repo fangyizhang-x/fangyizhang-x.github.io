@@ -66,7 +66,7 @@ jobs:
             './**/*.html'
 
       - name: Upload Link Check Report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: broken-links-report
           path: link_checker_results.md
