@@ -17,7 +17,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - (Undergraduate) [EEET4000 Engineering Research Project 1](https://handbook.curtin.edu.au/units/unit-ug-engineering-research-project-1--eeet4000v2): Project Supervisor; 25S1
 
 ### Queensland University of Technology (QUT):
-- (Postgraduate) [IFN680 Artificial Intelligence and Machine Learning](https://www.qut.edu.au/study/unit?unitCode=IFN680): Guest Lecturer, 24S2
-- (Postgraduate) [ENN590-1 Project 1](https://www.qut.edu.au/study/unit?unitCode=ENN590-1): Project Supervisor, 22S2
-- (Undergraduate) [EGH400-1 Research Project 1](https://www.qut.edu.au/study/unit?unitCode=EGH400-1): Project Supervisor, 22S1, 23S1, 23S2
-- (Undergraduate) [EGH400-2 Research Project 2](https://www.qut.edu.au/study/unit?unitCode=EGH400-2): Project Supervisor, 22S1, 22S2, 23S2, 24S1
+- (Postgraduate) [IFN680 Artificial Intelligence and Machine Learning](https://www.qut.edu.au/study/unit?unitCode=IFN680): Guest Lecturer; 24S2
+- (Postgraduate) [ENN590-1 Project 1](https://www.qut.edu.au/study/unit?unitCode=ENN590-1): Project Supervisor; 22S2
+- (Undergraduate) [EGH400-1 Research Project 1](https://www.qut.edu.au/study/unit?unitCode=EGH400-1): Project Supervisor; 22S1, 23S1, 23S2
+- (Undergraduate) [EGH400-2 Research Project 2](https://www.qut.edu.au/study/unit?unitCode=EGH400-2): Project Supervisor; 22S1, 22S2, 23S2, 24S1
