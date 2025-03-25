@@ -61,12 +61,5 @@ jobs:
             --max-retries 3
             --timeout 10
             --accept 200,403,429,999
-            --output link_checker_results.md
             './**/*.md'
             './**/*.html'
-
-      - name: Upload Link Check Report
-        uses: actions/upload-artifact@v4
-        with:
-          name: broken-links-report
-          path: link_checker_results.md
