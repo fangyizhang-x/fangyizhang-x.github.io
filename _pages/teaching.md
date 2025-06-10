@@ -12,9 +12,14 @@ nav_order: 5
 Organize your courses by years, topics, or universities, however you like! -->
 
 ### Curtin University:
+- (Postgraduate) [CMPE6012 Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1): Unit Coordinator; 25S2
+- (Postgraduate) [ICTE5005 Industrial Automation and Robotics](https://handbook.curtin.edu.au/units/unit-pg-industrial-automation-and-robotics--icte5005v1): Unit Coordinator; 25S2
 - (Postgraduate) [CMPE6001 Computer Aided Engineering of Digital Systems](https://handbook.curtin.edu.au/units/unit-pg-computer-aided-engineering-of-digital-systems--cmpe6001v1): Shadow Unit Coordinator; 25S1
+- (Undergraduate) [ICTE4005 Industrial Automation and Robotics](https://handbook.curtin.edu.au/units/unit-ug-industrial-automation-and-robotics--icte4005v1): Shadow Unit Coordinator; 25S2
 - (Undergraduate) [CMPE3006 Advanced Digital Design](https://handbook.curtin.edu.au/units/unit-ug-advanced-digital-design--cmpe3006v1): Shadow Unit Coordinator; 25S1
 - (Undergraduate) [EEET4000 Engineering Research Project 1](https://handbook.curtin.edu.au/units/unit-ug-engineering-research-project-1--eeet4000v2): Project Supervisor; 25S1
+- (Undergraduate) [EEET4001 Engineering Research Project 2](https://handbook.curtin.edu.au/units/unit-ug-engineering-research-project-2--eeet4001v1): Project Supervisor; 25S2
+- (Undergraduate) [MXEN4000 Mechatronic Engineering Research Project 1](https://handbook.curtin.edu.au/units/unit-ug-mechatronic-engineering-research-project-1--mxen4000v2): Project Supervisor; 25S2
 
 ### Queensland University of Technology (QUT):
 - (Postgraduate) [IFN680 Artificial Intelligence and Machine Learning](https://www.qut.edu.au/study/unit?unitCode=IFN680): Guest Lecturer; 24S2
