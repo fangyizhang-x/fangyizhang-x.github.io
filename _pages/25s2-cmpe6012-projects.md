@@ -17,6 +17,8 @@ These Embedded AI/ML projects demonstrate the successful translation of fundamen
   <img src="/assets/img/cmpe6012_25s2_photo.jpg" alt="CMPE6012 25S2" style="max-width:100%;height:auto;" />
 </p>
 
+<br>
+
 ### Project 1 - Smart Home System using Gesture Control with NVIDIA Jetson Nano
 - **Students:** Arju Dharsandiya, Wendy Amoah, Avanti More, Guruprakash Arun
 - **Brief Summary:** This project presents the design and implementation of a real-time gesture-controlled system using the NVIDIA Jetson Orin Nano and Arduino Uno for human–machine interaction. The system enables intuitive, touch-free control of external devices by recognizing four predefined hand gestures Open Palm, Closed Fist, Thumbs Up, and Thumbs Down captured via a webcam and processed using deep learning–based computer vision. In the first phase, the MediaPipe YOLOv8n-hand.pt model was deployed to perform 21-point hand landmark detection in real time. In the second phase, the same model was converted to ONNX and optimized into a TensorRT FP16 inference engine to enhance speed and efficiency on the Jetson GPU. A communication interface between the Jetson and Arduino enabled serial command transmission for controlling LEDs and servo actuators corresponding to detected gestures. Comprehensive performance evaluation demonstrated near-perfect precision, recall, and F1-scores (~1.0) across both implementations, confirming consistent classification accuracy. The TensorRT-optimized model achieved an average inference latency of 6.1 ms compared to 44.3 ms for the baseline, representing an ~86% reduction in processing time. Real-time visualization with live latency and FPS overlays validated smooth, low-latency operation and responsive device control. The results confirm that TensorRT-based deployment significantly enhances inference speed while maintaining model integrity, enabling robust, low-power, and real-time gesture recognition on embedded platforms. The proposed system demonstrates strong potential for smart-home automation, industrial control, and assistive technology applications, where responsive and reliable human–machine interaction is essential.
@@ -44,7 +46,5 @@ These Embedded AI/ML projects demonstrate the successful translation of fundamen
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/sIAt2lbc-ZM?si=TO5VSZiwQwweGj8-" title="Project 3 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-<br>
 
 - **Code:** [GitHub Repository](https://github.com/harrydleung/Curtin-CMPE6012-Final-Project)
