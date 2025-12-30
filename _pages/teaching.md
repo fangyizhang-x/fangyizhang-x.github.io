@@ -13,7 +13,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ### Curtin University:
 - (Postgraduate) [CMPE6012 Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1): Unit Coordinator; 25S2
-	- [2025S2 CMPE6012 student projects](/teaching/25s2-cmpe6012-projects/)
+	- [2025 Semester 2 Student Project Showcase](/teaching/cmpe6012-25s2/)
 - (Postgraduate) [ICTE5005 Industrial Automation and Robotics](https://handbook.curtin.edu.au/units/unit-pg-industrial-automation-and-robotics--icte5005v1): Unit Coordinator; 25S2
 - (Postgraduate) [CMPE6001 Computer Aided Engineering of Digital Systems](https://handbook.curtin.edu.au/units/unit-pg-computer-aided-engineering-of-digital-systems--cmpe6001v1): Shadow Unit Coordinator; 25S1
 - (Undergraduate) [ICTE4005 Industrial Automation and Robotics](https://handbook.curtin.edu.au/units/unit-ug-industrial-automation-and-robotics--icte4005v1): Unit Coordinator; 25S2

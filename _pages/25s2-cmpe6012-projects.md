@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /teaching/25s2-cmpe6012-projects/
-title: 2025S2 CMPE6012 Student Projects
-description: Student project showcase of the unit CMPE6012 — Artificial Intelligence and Machine Learning in Embedded Systems
+permalink: /teaching/cmpe6012-25s2/
+title: 2025 Semester 2 CMPE6012 Student Projects
+description: Student project showcase for the 2025 Semester 2 delivery of CMPE6012 - Artificial Intelligence and Machine Learning in Embedded Systems
 nav: false
 ---
 
-## CMPE6012 - Artificial Intelligence and Machine Learning in Embedded Systems, Semester 2, 2025 - Student Project Showcase
+## CMPE6012 - Artificial Intelligence and Machine Learning in Embedded Systems
 
-This page presents final projects from the Semester 2, 2025 delivery of [CMPE6012: Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1).
+This page presents final projects from the **2025 Semester 2** delivery of [CMPE6012: Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1).
 
 These works demonstrate the successful translation of fundamental Machine Learning concepts into practical, real-time solutions. Throughout the unit, students leveraged state-of-the-art pre-trained models-spanning Computer Vision and Visual Language Models (VLMs)-to address real-world challenges on resource-constrained embedded platforms. By optimizing and deploying these models on NVIDIA Jetson hardware, students have provided tangible evidence of their proficiency in Edge AI, inference acceleration (TensorRT), and hardware-software co-design—skills highly valued in modern intelligent systems engineering.
 
@@ -39,5 +39,5 @@ These works demonstrate the successful translation of fundamental Machine Learni
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/sIAt2lbc-ZM?si=TO5VSZiwQwweGj8-" title="Project 3 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
-  
+
 - **Code:** [GitHub Repository](https://github.com/harrydleung/Curtin-CMPE6012-Final-Project)
