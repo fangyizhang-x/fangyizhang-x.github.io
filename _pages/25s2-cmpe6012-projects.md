@@ -23,9 +23,9 @@ These Embedded AI/ML projects demonstrate the successful translation of fundamen
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/5q1MoAnBtlE?si=SK5VMyLKVFZ4i4ld" title="Project 1 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <br><br>
 </div>
 
+<br>
 
 ### Project 2 - Obstacle Avoidance and Navigation Device for Blind and Visually Impaired People
 - **Students:** Md Sihab Uddin, Ibtihaj Rahman, Zehao Pei, Muhammad Mujtaba Zuberi
@@ -33,9 +33,9 @@ These Embedded AI/ML projects demonstrate the successful translation of fundamen
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/2p3dW-uSBW0?si=P7EIWuMx5e6eTgJh" title="Project 2 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <br><br>
 </div>
 
+<br>
 
 ### Project 3 - Embedded AI for Livestock Monitoring
 - **Students:** Dong Liang, David Kajwang, Srivatsa Tata
@@ -43,7 +43,8 @@ These Embedded AI/ML projects demonstrate the successful translation of fundamen
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/sIAt2lbc-ZM?si=TO5VSZiwQwweGj8-" title="Project 3 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <br><br>
-  </div>
+</div>
+
+<br>
 
 - **Code:** [GitHub Repository](https://github.com/harrydleung/Curtin-CMPE6012-Final-Project)
