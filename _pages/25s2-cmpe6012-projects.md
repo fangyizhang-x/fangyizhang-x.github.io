@@ -10,7 +10,7 @@ nav: false
 
 This page presents final projects from the **2025 Semester 2** delivery of [CMPE6012: Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1).
 
-These works demonstrate the successful translation of fundamental Machine Learning concepts into practical, real-time solutions. Throughout the unit, students leveraged state-of-the-art pre-trained models-spanning Computer Vision and Visual Language Models (VLMs)-to address real-world challenges on resource-constrained embedded platforms. By optimizing and deploying these models on NVIDIA Jetson hardware, students have provided tangible evidence of their proficiency in Edge AI, inference acceleration (TensorRT), and hardware-software co-design—skills highly valued in modern intelligent systems engineering.
+These Embedded AI/ML projects demonstrate the successful translation of fundamental Machine Learning concepts into practical, real-time solutions. Throughout the unit, students were guided to leverage state-of-the-art pre-trained models to address real-world challenges on resource-constrained embedded platforms. By optimizing and deploying these models on NVIDIA Jetson hardware, students have provided tangible evidence of their proficiency in Edge AI, inference acceleration using TensorRT, and hardware-software co-design (skills highly valued in modern intelligent systems engineering).
 
 *We acknowledge the dedication, technical innovation, and professional engagement demonstrated by the entire cohort.*
 <p style="text-align:center;">
@@ -23,6 +23,7 @@ These works demonstrate the successful translation of fundamental Machine Learni
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/5q1MoAnBtlE?si=SK5VMyLKVFZ4i4ld" title="Project 1 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br><br>
 </div>
 
 
@@ -32,6 +33,7 @@ These works demonstrate the successful translation of fundamental Machine Learni
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/2p3dW-uSBW0?si=P7EIWuMx5e6eTgJh" title="Project 2 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br><br>
 </div>
 
 
@@ -41,6 +43,7 @@ These works demonstrate the successful translation of fundamental Machine Learni
 - **Demo Video:**
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
   <iframe src="https://www.youtube.com/embed/sIAt2lbc-ZM?si=TO5VSZiwQwweGj8-" title="Project 3 Demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br><br>
   </div>
 
 - **Code:** [GitHub Repository](https://github.com/harrydleung/Curtin-CMPE6012-Final-Project)
