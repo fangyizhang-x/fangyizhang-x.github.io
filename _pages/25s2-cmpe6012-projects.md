@@ -13,6 +13,9 @@ This page presents final projects from the **2025 Semester 2** delivery of [CMPE
 These works demonstrate the successful translation of fundamental Machine Learning concepts into practical, real-time solutions. Throughout the unit, students leveraged state-of-the-art pre-trained models-spanning Computer Vision and Visual Language Models (VLMs)-to address real-world challenges on resource-constrained embedded platforms. By optimizing and deploying these models on NVIDIA Jetson hardware, students have provided tangible evidence of their proficiency in Edge AI, inference acceleration (TensorRT), and hardware-software co-design—skills highly valued in modern intelligent systems engineering.
 
 *We acknowledge the dedication, technical innovation, and professional engagement demonstrated by the entire cohort.*
+<p style="text-align:center;">
+  <img src="/assets/img/cmpe6012_25s2_photo.jpg" alt="CMPE6012 25S2" style="max-width:100%;height:auto;" />
+</p>
 
 ### Project 1 - Smart Home System using Gesture Control with NVIDIA Jetson Nano
 - **Students:** Arju Dharsandiya, Wendy Amoah, Avanti More, Guruprakash Arun
