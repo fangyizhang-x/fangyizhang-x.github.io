@@ -38,7 +38,7 @@ nav_order: 4
 
 ### Alumni:
 - [Robert Lee](https://www.linkedin.com/in/robert-lee-a8a98922b/) - QUT PhD graduate (2023), co-supervised with [Prof. Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/peter.corke), now a Research Engineer at [Woven by Toyota](https://woven.toyota/en/)
-- [Liguo Zhu](https://liguozhu.netlify.app/) - QUT Master’s graduate (2023), now a Machine Learning Engineer at [CTM](https://www.travelctm.com/global/)
+- [Liguo Zhu](https://www.linkedin.com/in/liguo-zhu-2830b2271/) - QUT Master’s graduate (2023), now a Machine Learning Engineer at [CTM](https://www.travelctm.com/global/)
 - [Tim De Keijzer](https://www.linkedin.com/in/tdekeijzer/) - QUT Research intern and Master’s student at [Eindhoven University of Technology](https://www.tue.nl/en/) (2023), now a Mechatronics Designer at [Philips](https://www.philips.com)
 - Kristopher Toombs - QUT Honours graduate (2024)
 - [Joseph Turner](https://www.linkedin.com/in/josephturner2/) - QUT Honours graduate (2024)
