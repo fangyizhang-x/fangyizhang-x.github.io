@@ -242,6 +242,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_fangyi.md
+  - _pages/cv.md
   - _pages/blog.md
   - _pages/dropdown.md
   - _pages/repositories.md
