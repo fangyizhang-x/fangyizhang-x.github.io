@@ -19,7 +19,7 @@ related_publications: true
 </div>
 
 <!-- Content -->
-<p>This is my Ph.D. project in the <a href="https://www.roboticvision.org/" target="_blank" rel="noopener">Australian Centre for Robotic Vision</a> at <a href="https://wiki.qut.edu.au/display/cyphy/Robotics@QUT" target="_blank" rel="noopener">QUT</a>, with supervisions from <a href="https://wiki.qut.edu.au/display/cyphy/Peter&#43;Corke" target="_blank" rel="noopener">Prof. Peter Corke</a>, <a href="http://juxi.net/" target="_blank" rel="noopener">Dr. Jürgen Leitner</a>, <a href="https://wiki.qut.edu.au/display/cyphy/Michael&#43;Milford" target="_blank" rel="noopener">Prof. Michael Milford</a> and <a href="https://www.roboticvision.org/rv_person/ben-upcroft/" target="_blank" rel="noopener">Dr. Ben Upcroft</a>.</p>
+<p>This is my Ph.D. project in the <a href="https://www.roboticvision.org/" target="_blank" rel="noopener">Australian Centre for Robotic Vision</a> at <a href="https://wiki.qut.edu.au/display/cyphy/Robotics@QUT" target="_blank" rel="noopener">QUT</a>, with supervisions from <a href="https://wiki.qut.edu.au/display/cyphy/Peter&#43;Corke" target="_blank" rel="noopener">Prof. Peter Corke</a>, <a href="https://juxi.net/" target="_blank" rel="noopener">Dr. Jürgen Leitner</a>, <a href="https://wiki.qut.edu.au/display/cyphy/Michael&#43;Milford" target="_blank" rel="noopener">Prof. Michael Milford</a> and <a href="https://www.roboticvision.org/rv_person/ben-upcroft/" target="_blank" rel="noopener">Dr. Ben Upcroft</a>.</p>
 
 <!-- part 1 -->
 <h4 id="learning-planar-reaching-in-simulation"><strong>Learning Planar Reaching in Simulation</strong></h4>
