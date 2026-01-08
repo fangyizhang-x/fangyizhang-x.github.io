@@ -11,9 +11,9 @@ description: Guidelines for perspective students (HDR, Honours, undergraduates, 
 
 ## For prospective visiting researchers or students:
 ---
-Please send your **CV** and **research proposal** to [fangyi.zhang@curtin.edu.au](mailto:fangyi.zhang@curtin.edu.au).
+Please send your **CV** and **research proposal** to [fangyi.zhang@curtin.edu.au](mailto:fangyi.zhang@curtin.edu.au). We welcome Chinese Government Scholarships (CSC) supported researchers and students.
 
-## For prospective Honours/Final-year project students:
+## For prospective honours/final-year project students:
 ---
 If you are passionate about Robotics and/or AI and have a relevant background, feel free to drop me an [email](mailto:fangyi.zhang@curtin.edu.au) to discuss potential opportunities for honours or final-year projects.
 
