@@ -9,7 +9,7 @@ description: Guidelines for perspective students (HDR, Honours, undergraduates, 
 
 ***I am seeking highly motivated students with a keen interest in robotics and AI.***
 
-## For prospective visiting researchers or students:
+## For prospective visiting researchers/students:
 ---
 Please send your **CV** and **research proposal** to [fangyi.zhang@curtin.edu.au](mailto:fangyi.zhang@curtin.edu.au). We welcome Chinese Government Scholarships (CSC) supported researchers and students.
 
