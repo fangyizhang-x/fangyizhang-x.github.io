@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Lecturer (Assistant Professor),  <a href='https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-electrical-engineering-computing-and-mathematical-sciences/'>School of EECMS</a>, <a href='https://www.curtin.edu.au/'>Curtin University</a>. 
 # Address. Contacts. Moto. Etc.

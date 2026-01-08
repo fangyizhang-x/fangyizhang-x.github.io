@@ -9,16 +9,23 @@ description: Guidelines for perspective students (HDR, Honours, undergraduates, 
 
 ***I am seeking highly motivated students with a keen interest in robotics and AI.***
 
+## For prospective visiting researchers or students:
+---
+Please send your **CV** and **research proposal** to [fangyi.zhang@curtin.edu.au](mailto:fangyi.zhang@curtin.edu.au).
+
+## For prospective Honours/Final-year project students:
+---
+If you are passionate about Robotics and/or AI and have a relevant background, feel free to drop me an [email](mailto:fangyi.zhang@curtin.edu.au) to discuss potential opportunities for honours or final-year projects.
+
 ## For prospective HDR (PhD/MPhil/MRes) students:
 ---
-### 1) How to Apply (Prospective HDR)
+### 1) How to Apply
 
 #### Quick path (recommended)
 1.  **Select a project/topic** in Robotics and/or AI related to ERA Lab's focuses. You may also explore other projects and supervisors at the page [Higher Degree by Research](https://research.curtin.edu.au/higher-degree-by-research/).
 2.  **Submit an Expression of Interest (EOI)** — mention your proposed topic, preferred supervisor(s), CV, transcripts: [EOI form (Curtin Forms)](https://forms.curtin.edu.au/Produce/wizard/791e8f99-aacb-41ad-9f83-b2cceebab565/).
 3.  **Draft a research proposal** (topic, plan, objectives, significance, ethics): guidance under [How to apply—proposal](https://www.curtin.edu.au/study/applying/research/).
 4.  **Apply** formally once your supervisor interest is confirmed: follow “Apply now” from the HDR course page: [How to apply for a research degree](https://www.curtin.edu.au/study/applying/research/).
-
 > **Master of Research (MRes)**: a one‑year extension of an **end‑on Honours** research project; see the MRes info sheet (eligibility, RTP fee offsets, scholarships). [MRes information sheet (PDF)](https://scholarships.curtin.edu.au/wp-content/uploads/sites/8/2021/10/MRes-Information-Sheet-20211025-1.pdf).
 
 #### Entry & English requirements
@@ -32,6 +39,7 @@ description: Guidelines for perspective students (HDR, Honours, undergraduates, 
 ---
 ### 2) Scholarships & Funding
 > The Curtin HDR Scholarship and RTP are open to both domestic and international students. However, they are significantly more competitive for international students due to the limited number of available scholarships and the large volume of applications. The selection processes for domestic and international students are conducted separately.
+
 *   **Curtin HDR Scholarship (2026 base)**: **AUD $38,400/yr** stipend (tax‑free) up to **3.5 years** for PhD; domestic packages total ~**AUD $70,000/yr** (stipend + tuition offset). [Scholarship details](https://scholarships.curtin.edu.au/Scholarship/?id=7695).
 *   **Research Training Program (RTP)** (Govt): fee offsets + stipend; main round opens **1 July – 18 August** annually. [RTP scholarships](https://www.curtin.edu.au/study/higher-degree-by-research/rtp-scholarship/) and broader [HDR scholarships & grants](https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/hdr-scholarships-awards-and-grants/).
 
@@ -72,14 +80,6 @@ Curtin uses **three** formal milestones; each requires documentation and an **or
 *   University HDR policies, forms, milestones, ethics and thesis resources. [HDR portal](https://www.curtin.edu.au/students/essentials/higher-degree-by-research/), [Forms & guides](https://www.curtin.edu.au/students/essentials/higher-degree-by-research/hdr-forms/), [Milestones](https://www.curtin.edu.au/students/essentials/higher-degree-by-research/milestones/), [Thesis & Viva](https://www.curtin.edu.au/students/essentials/higher-degree-by-research/prepare-thesis/), [Ethics & safety](https://www.curtin.edu.au/students/essentials/higher-degree-by-research/ethics-safety/).
 *   Scholarships (RTP + Curtin HDR). [Scholarship details](https://scholarships.curtin.edu.au/Scholarship/?id=7695), [RTP page](https://www.curtin.edu.au/study/higher-degree-by-research/rtp-scholarship/), [Scholarships & grants](https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/hdr-scholarships-awards-and-grants/).
 *   AI support & research. [CAIR](https://research.curtin.edu.au/research-areas/data-science-machine-learning-and-ai/artificial-intelligence/), [AI research area](https://research.curtin.edu.au/research-areas/data-science-machine-learning-and-ai/), [AI practical examples](https://staffportal.curtin.edu.au/research/training/ai-in-research-practical-examples/).
-
-## For prospective Honours/Final-year project students:
----
-If you are passionate about Robotics and/or AI and have a relevant background, feel free to drop me an [email](mailto:fangyi.zhang@curtin.edu.au) to discuss potential opportunities for honours or final-year projects.
-
-## For prospective visiting researchers or students:
----
-Please send your **CV** and **research proposal** to [fangyi.zhang@curtin.edu.au](mailto:fangyi.zhang@curtin.edu.au).
 
 <!-- ## Onboarding checklist (first 2 weeks)
 

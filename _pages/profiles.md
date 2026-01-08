@@ -2,7 +2,7 @@
 layout: page
 # layout: profiles
 permalink: /people/
-title: people
+title: People
 description: members of the lab
 nav: true
 nav_order: 4

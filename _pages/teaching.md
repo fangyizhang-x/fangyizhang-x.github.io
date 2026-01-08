@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: The courses I am teaching
 nav: true
 nav_order: 5
@@ -12,6 +12,7 @@ nav_order: 5
 Organize your courses by years, topics, or universities, however you like! -->
 
 ### Curtin University:
+---
 - (Postgraduate) [CMPE6012 Artificial Intelligence and Machine Learning in Embedded Systems](https://handbook.curtin.edu.au/units/unit-pg-artificial-intelligence-and-machine-learning-in-embedded-systems--cmpe6012v1): Unit Coordinator; 25S2
 	- [2025 Semester 2 Student Project Showcase](/teaching/cmpe6012-25s2/)
 - (Postgraduate) [ICTE5005 Industrial Automation and Robotics](https://handbook.curtin.edu.au/units/unit-pg-industrial-automation-and-robotics--icte5005v1): Unit Coordinator; 25S2
@@ -23,6 +24,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - (Undergraduate) [MXEN4000 Mechatronic Engineering Research Project 1](https://handbook.curtin.edu.au/units/unit-ug-mechatronic-engineering-research-project-1--mxen4000v2): Project Supervisor; 25S2
 
 ### Queensland University of Technology (QUT):
+---
 - (Postgraduate) [IFN680 Artificial Intelligence and Machine Learning](https://www.qut.edu.au/study/unit?unitCode=IFN680): Guest Lecturer; 24S2
 - (Postgraduate) [ENN590-1 Project 1](https://www.qut.edu.au/study/unit?unitCode=ENN590-1): Project Supervisor; 22S2
 - (Undergraduate) [EGH400-1 Research Project 1](https://www.qut.edu.au/study/unit?unitCode=EGH400-1): Project Supervisor; 22S1, 23S1, 23S2
