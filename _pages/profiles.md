@@ -3,7 +3,7 @@ layout: page
 # layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the lab
 nav: true
 nav_order: 4
 
@@ -61,5 +61,3 @@ Manipulation/Rotation for Visuo-Tactile Robotics, now a Graduate Engineer at [Au
 
 #### Research Internship Students
 - [Tim De Keijzer](https://www.linkedin.com/in/tdekeijzer/) - Research Intern at QUT and Master’s student at [Eindhoven University of Technology](https://www.tue.nl/en/) (2023), now a Mechatronics Designer at [Philips](https://www.philips.com)
-
-<!-- --- -->
