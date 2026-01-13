@@ -40,7 +40,7 @@ If you are passionate about Robotics and/or AI and have a relevant background, f
 ### 2) Scholarships & Funding
 > The Curtin HDR Scholarship and RTP are open to both domestic and international students. However, they are significantly more competitive for international students due to the limited number of available scholarships and the large volume of applications. The selection processes for domestic and international students are conducted separately.
 
-*   **Curtin HDR Scholarship (2026 base)**: **AUD $38,400/yr** stipend (tax‑free) up to **3.5 years** for PhD; domestic packages total ~**AUD $70,000/yr** (stipend + tuition offset). [Scholarship details](https://scholarships.curtin.edu.au/Scholarship/?id=7695).
+<!-- *   **Curtin HDR Scholarship (2026 base)**: **AUD $38,400/yr** stipend (tax‑free) up to **3.5 years** for PhD; domestic packages total ~**AUD $70,000/yr** (stipend + tuition offset). [Scholarship details](https://scholarships.curtin.edu.au/Scholarship/?id=7695). -->
 *   **Research Training Program (RTP)** (Govt): fee offsets + stipend; main round opens **1 July – 18 August** annually. [RTP scholarships](https://www.curtin.edu.au/study/higher-degree-by-research/rtp-scholarship/) and broader [HDR scholarships & grants](https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/hdr-scholarships-awards-and-grants/).
 
 ---
